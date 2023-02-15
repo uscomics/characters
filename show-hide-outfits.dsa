@@ -26,6 +26,11 @@ clothingType.addItem("Civilian 2")
 clothingType.addItem("Civilian 3")
 clothingType.addItem("Civilian 4")
 clothingType.addItem("Civilian 5")
+clothingType.addItem("Props 1")
+clothingType.addItem("Props 2")
+clothingType.addItem("Props 3")
+clothingType.addItem("Props 4")
+clothingType.addItem("Props 5")
 dialogBox.addWidget(clothingType)
 showHideLabel.setBuddy(buttonGroup)
 showHideLabel.text = "Show/Hide"
@@ -57,6 +62,11 @@ if( dialogBox.exec() ){
 	else if ("Civilian 3" === clothingType.currentText) { clothingSelection = "Civilian3" }
 	else if ("Civilian 4" === clothingType.currentText) { clothingSelection = "Civilian4" }
 	else if ("Civilian 5" === clothingType.currentText) { clothingSelection = "Civilian5" }
+	else if ("Props 1" === clothingType.currentText) { clothingSelection = "Props1" }
+	else if ("Props 2" === clothingType.currentText) { clothingSelection = "Props2" }
+	else if ("Props 3" === clothingType.currentText) { clothingSelection = "Props3" }
+	else if ("Props 4" === clothingType.currentText) { clothingSelection = "Props4" }
+	else if ("Props 5" === clothingType.currentText) { clothingSelection = "Props5" }
 	for (loop1 = 0; loop1 < nodes.length; loop1++) {
 		const node = nodes[loop1]
 		const dataItems = node.getDataItemList()
@@ -72,3 +82,4 @@ if( dialogBox.exec() ){
 		}
 	}
 }
+
