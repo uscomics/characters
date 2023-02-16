@@ -74,7 +74,6 @@ if( dialogBox.exec() ){
 		
 		for (loop2 = 0; loop2 < dataItems.length; loop2++) {
 			const dataItem = dataItems[loop2]
-			const owner = dataItem.getOwner()
 			
 			if (clothingSelection !== dataItem.getName()) { continue }
 			node.setVisible(visible)
