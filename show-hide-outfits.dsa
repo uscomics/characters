@@ -46,7 +46,6 @@ const sizeHint = dialogWidgetWrapper.minimumSizeHint
 dialogBox.setFixedSize( sizeHint.width, sizeHint.height )
 
 if( dialogBox.exec() ){
-	print( clothingType.currentText + showButton.checked )
 	const visible = showButton.checked
 	const scene = new DzSceneHelper()
 	const nodes = scene.collectNodes( false, false, false )
@@ -74,7 +73,7 @@ if( dialogBox.exec() ){
 		
 		for (loop2 = 0; loop2 < dataItems.length; loop2++) {
 			const dataItem = dataItems[loop2]
-			
+
 			if (clothingSelection !== dataItem.getName()) { continue }
 			node.setVisible(visible)
 			break
