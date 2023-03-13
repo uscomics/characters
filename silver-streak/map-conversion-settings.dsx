@@ -1,0 +1,22 @@
+<DAZStudioTextureConverterConfiguration Version="1.0.0.0">
+ <Template Name="Template1" NodeName="Genesis8_1Male">
+  <Options>
+   <ImagePath>C:/Users/magic/Documents/comics/characters/silver-streak</ImagePath>
+   <ImageType>png</ImageType>
+   <BakingQuality>0.01</BakingQuality>
+   <PresetID>0</PresetID>
+   <RenderViewport>1</RenderViewport>
+   <AspectConstrain>1</AspectConstrain>
+   <ImageSize SizeX="800" SizeY="600"/>
+   <AspectRatio HeightRatio="3" WidthRatio="4"/>
+   <HardwareCutOffSize>4096</HardwareCutOffSize>
+   <BleedFactor>0.01</BleedFactor>
+   <ForceResize>0</ForceResize>
+   <ConvertByProperty>1</ConvertByProperty>
+   <ProjectParentToLines>0</ProjectParentToLines>
+  </Options>
+  <Surfaces>
+   <Surface UVMapName="Base 8.1 Male" Name="Head"/>
+  </Surfaces>
+ </Template>
+</DAZStudioTextureConverterConfiguration>
