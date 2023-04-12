@@ -1,0 +1,53 @@
+Freja Nakamura (Protocol)
+Textures For Sugar City
+
+grass - Shader Presets/Iray/JG/Nature Shaders/Ground/Ground_02
+parking01 - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+pavement01 - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_01
+pavement02 - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+roads01 - C:\Users\David\Documents\Comics\!Poser Pro 2010\Runtime\textures\Superheroes\hexagon-blue.pong
+streets_pav - C:\Users\David\Documents\Comics\!Poser Pro 2010\Runtime\textures\Superheroes\hexagon-blue.pong
+ud_sidewalks- Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+ud_streetmarks- Shader Presets/Iray Simple Emission/Cool Blue 10000
+
+blind_holders - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+blinds3 - Shader Presets/DimensionTheory/Refracted - Iray Glass/3D DTIG GlassA
+box_glass - Shader Presets/Creative Emmisive Lighting Iray/KE Spots Blue Iray
+box_organic- Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+box_paper- Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+caps- Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+columns - Shader Presets/Iray/NVIDIA MDL Examples/Porcelain
+glass_box1- Shader Presets/DimensionTheory/Refracted - Iray Glass/3D DTIG GlassA
+green_light - Shader Presets/Iray Simple Emission/Cool Green 100
+hcr3_m20 - Shader Presets/DimensionTheory/Refracted - Iray Glass/3D DTIG GlassA
+metal01- Shader Presets/Iray/NVIDIA MDL Examples/Porcelain
+metal02- Shader Presets/Iray/NVIDIA MDL Examples/Porcelain
+orange_light - Shader Presets/Dumor3D/!Glass IOR 1.46 Fused Silica
+	Shader Presets/Dumor3D/Color - Yellow
+park_lampluminance - Shader Presets/Creative Emmisive Lighting Iray/KE Spots Blue Iray
+pedestrain - Shaders/Visual Style Shaders/Visual Presets/Visual Misc/Visual Colour - Black
+pedestrain_go - Shader Presets/Iray Simple Emission/Cool Green 10000
+pedestrain_stop - Shader Presets/Iray Simple Emission/Cool Red 10000
+Preview - Shader Presets/Iray/NVIDIA MDL Examples/ Car Paint - Blue
+red_light - Shader Presets/Dumor3D/!Glass IOR 1.46 Fused Silica
+	Shader Presets/Dumor3D/Color - Red
+Traffic - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+(Add cylinders with emmisive light as needed for the actual traffic lights)
+traffic - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+
+BUILDINGS
+glass01 - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_12
+glass02 - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_15
+
+King Buildings
+First apply to ALL surfaces: shaders/Fabricator/silkessence/Plain Silk/White
+Set Map Tiling U and Map Tiling V to 1.
+
+Flag - Set Diffuse image to: babe 1/Sugar City/Flag.jpg
+FlagPole - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_02
+KING - Shader Presets/Iray Simple Emission/Cool Black 100
+LargeSolarPanel - Shader Presets/Dumor3D/Iray Glass/!Glass IOR 1.46 Fused Silica
+	Shader Presets/Dumor3D/Iray Glass/Color - Antique Cobalt
+	Shader Presets/Dumor3D/Iray Glass/Effect - Frosted Medium
+MainBuilding -  Set Diffuse image to: babe 1/Sugar City/Sugar City Building 1 Window.jpg
+MainBuildingBase - Shader Presets/Iray/Shades Of Pearl/Shades_Of_Pearl_12

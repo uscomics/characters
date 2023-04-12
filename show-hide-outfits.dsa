@@ -1,0 +1,83 @@
+// DAZ Studio version 4.21.0.5 filetype DAZ Script
+
+const style = App.getStyle()
+const buttonHeight = style.pixelMetric( "DZ_ButtonHeight" )
+const dialogBox = new DzBasicDialog()
+const dialogWidgetWrapper = dialogBox.getWidget()
+const clothingTypeLabel = new DzLabel (dialogBox)
+const clothingType = new DzComboBox (dialogBox)
+const showHideLabel = new DzLabel (dialogBox)
+const buttonGroup = new DzVButtonGroup( dialogBox )
+const showButton = new DzRadioButton( buttonGroup )
+const hideButton = new DzRadioButton( buttonGroup )
+
+dialogBox.caption = "Show or Hide Clothing"
+dialogWidgetWrapper.objectName = dialogBox.caption.replace( / /g, "" ) + "Dlg"
+clothingTypeLabel.setBuddy(clothingType)
+clothingTypeLabel.text = "Clothing Type"
+dialogBox.addWidget(clothingTypeLabel)
+clothingType.addItem("Super 1")
+clothingType.addItem("Super 2")
+clothingType.addItem("Super 3")
+clothingType.addItem("Super 4")
+clothingType.addItem("Super 5")
+clothingType.addItem("Civilian 1")
+clothingType.addItem("Civilian 2")
+clothingType.addItem("Civilian 3")
+clothingType.addItem("Civilian 4")
+clothingType.addItem("Civilian 5")
+clothingType.addItem("Props 1")
+clothingType.addItem("Props 2")
+clothingType.addItem("Props 3")
+clothingType.addItem("Props 4")
+clothingType.addItem("Props 5")
+dialogBox.addWidget(clothingType)
+showHideLabel.setBuddy(buttonGroup)
+showHideLabel.text = "Show/Hide"
+dialogBox.addWidget(showHideLabel)
+buttonGroup.columns = 2
+showButton.text = "Show"
+showButton.checked = true
+hideButton.text = "Hide"
+dialogBox.addWidget(buttonGroup)
+
+const sizeHint = dialogWidgetWrapper.minimumSizeHint
+
+dialogBox.setFixedSize( sizeHint.width, sizeHint.height )
+
+if( dialogBox.exec() ){
+	const visible = showButton.checked
+	const scene = new DzSceneHelper()
+	const nodes = scene.collectNodes( false, false, false )
+	var loop1 = 0
+	var clothingSelection = "OutfitSuper1"
+	
+	if ("Super 2" === clothingType.currentText) { clothingSelection = "OutfitSuper2" }
+	else if ("Super 3" === clothingType.currentText) { clothingSelection = "OutfitSuper3" }
+	else if ("Super 4" === clothingType.currentText) { clothingSelection = "OutfitSuper4" }
+	else if ("Super 5" === clothingType.currentText) { clothingSelection = "OutfitSuper5" }
+	else if ("Civilian 1" === clothingType.currentText) { clothingSelection = "Civilian1" }
+	else if ("Civilian 2" === clothingType.currentText) { clothingSelection = "Civilian2" }
+	else if ("Civilian 3" === clothingType.currentText) { clothingSelection = "Civilian3" }
+	else if ("Civilian 4" === clothingType.currentText) { clothingSelection = "Civilian4" }
+	else if ("Civilian 5" === clothingType.currentText) { clothingSelection = "Civilian5" }
+	else if ("Props 1" === clothingType.currentText) { clothingSelection = "Props1" }
+	else if ("Props 2" === clothingType.currentText) { clothingSelection = "Props2" }
+	else if ("Props 3" === clothingType.currentText) { clothingSelection = "Props3" }
+	else if ("Props 4" === clothingType.currentText) { clothingSelection = "Props4" }
+	else if ("Props 5" === clothingType.currentText) { clothingSelection = "Props5" }
+	for (loop1 = 0; loop1 < nodes.length; loop1++) {
+		const node = nodes[loop1]
+		const dataItems = node.getDataItemList()
+		var loop2 = 0
+		
+		for (loop2 = 0; loop2 < dataItems.length; loop2++) {
+			const dataItem = dataItems[loop2]
+
+			if (clothingSelection !== dataItem.getName()) { continue }
+			node.setVisible(visible)
+			break
+		}
+	}
+}
+
