@@ -1,0 +1,72 @@
+# Blender MTL File: 'Airport Hangar.blend'
+# Material Count: 5
+
+newmtl emissive_light
+Ns 359.999993
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl glass
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Blend\\glass_BaseColor.png
+map_Ks Blend\\glass_Specular.png
+map_Ns Blend\\glass_Roughness.png
+map_d Blend\\glass_Opacity.png
+refl Blend\\glass_Metallic.png
+
+newmtl hangar_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Blend\\hangar_1_Normal.png
+map_Kd Blend\\hangar_1_BaseColor.png
+map_Ks Blend\\hangar_1_Specular.png
+map_Ns Blend\\hangar_1_Roughness.png
+refl Blend\\hangar_1_Metallic.png
+
+newmtl hangar_2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Blend\\hangar_2_Normal.png
+map_Kd Blend\\hangar_2_BaseColor.png
+map_Ks Blend\\hangar_2_Specular.png
+map_Ns Blend\\hangar_2_Roughness.png
+refl Blend\\hangar_2_Metallic.png
+
+newmtl hangar_3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Blend\\hangar_3_Normal.png
+map_Kd Blend\\hangar_3_BaseColor.png
+map_Ks Blend\\hangar_3_Specular.png
+map_Ns Blend\\hangar_3_Roughness.png
+refl Blend\\hangar_3_Metallic.png
