@@ -8,6 +8,9 @@ Thumbs.db
 *.zip
 *.rar
 
+# directories
+ignore-these/
+
 # Large media files
 *.mp4
 *.tiff
