@@ -1,0 +1,31 @@
+Thank you for purchasing the Nebulair Photoshop Action.
+
+-This action has been tested and working on Adobe Photoshop version CS5, CS6, and CC.
+-This action has been tested on 60 different photos to ensure the effect's adaptability.
+-This action only works in english version of Photoshop. If you want to change the language of your Photoshop, please follow the instructions on this video (https://www.youtube.com/results?search_query=Change+language+of+Photoshop+to+English.)
+
+REQUIREMENTS:
+-Photo to be used is on RGB color mode, and 8 bit color mode.
+-Photo size is between 1500-3000px (2000px recommended).
+-Photo resolution is between-240-300dpi.
+
+INSTALL THE ACTION
+1. Open Photoshop and open the Actions panel, if you cannot see it by default on the right side of the Photoshop interface, click "Window > Actions" to show it.
+2. On the Actions window, click the coner icon on the top right to show a drop-down menu, then click "Load Actions...". Locate the "Nebulair.atn" on your filesystem.
+3. "Nebulair.atn" wil now appear on your Actions panel.
+
+USE THE ACTION
+1. Open the photo you wish to apply the action on.
+2. Make sure that the photo layer is locked and set as "Background". Newly opened photos are set as "Background" and locked as default. If the opened photo is not, set it by clicking "Layer > New > Background from Layer".
+3. Create a new layer on top of of the "Background layer", named it "brush". All letters must be lowercase for the action to work properly.
+4. Select the "brush" layer, then brush the areas of the image you want the effect to be applied.
+5. For the final step, expand the "Nebulair" set inside the Actions panel and click the play button.
+
+
+
+If you're encountering errors, consider resetting your Photosho preferences to default. Hold Ctrl, Alt, and Shift on Windows (On Mac: Command, Option, and Shift) while starting up Photoshop. A dialog box will appear for the confirmation of the deletion of the preferences file.
+
+
+If you need help, please don't hesitate to contact me via my profile page (graphicriver.net/user/setsunasensei).
+
+Please don't forget to rate. Thanks and Godbless!

@@ -1,0 +1,13 @@
+How do I Install a Photoshop Action?
+
+1. Save your Photoshop Actions in:
+C:\Program Files\Adobe\Photoshop\Presets\Photoshop Actions (default location).
+Always keep a copy of the actions you buy somewhere on your hard-drive to prevent loss and accidental over-writes.
+
+2. Open Photoshop and press "F9" (Option+F9 on Mac), or simply go to "Window > Actions" to open the Actions palette.
+3. Click on the small triangle in the right upper corner or the Actions palette.
+4. Select > "Load Actions" from the menu, then locate your downloaded action and press "Load" (repeat this step if loading several actions).
+5. Click on the triangle next to the Action Set to expand it, then select one of the actions.
+6. With the action selected within the action set click "Play" button located at the bottom of the actions palette to run the selected action.
+Tips: You must have an image open and generally it must be "flat" (not layered) for the actions to work properly.
+OR You Can Drag The Actions Over To The Action Tab | Window>Actions or Alt F9 (On Windows)

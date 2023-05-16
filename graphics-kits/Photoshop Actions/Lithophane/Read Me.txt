@@ -1,0 +1,10 @@
+Make Lithophane.atn
+
+This Action will convert a photo or image into a lithophane complete with 3D scene.
+Note: Requires a photo or image layer in your current Photoshop document.
+
+Install the Action
+A) Drag-and-drop the Make Lithophane.atn on top of your Photoshop app icon.
+OR
+B) Drag-and-drop the Make Lithophane.atn into the Photoshop folder > Presets > Actions and restart Photoshop.
+-- 

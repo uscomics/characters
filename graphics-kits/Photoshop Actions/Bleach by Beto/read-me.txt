@@ -1,0 +1,13 @@
+#How to install Photoshop Actions
+
+
+To install Photoshop actions is as easy as double-clicking on the ".atn" file that comes in the download.
+
+Another way is to load them in the Actions Panel, you can open this by goint to the menu Window > Actions. Once in this panel, select the dropdown and click the "Load Actions" text. Next navigate to the downloaded folder and select the actions (.atn) file.
+
+##Running the Action
+
+To run an action, just open an image, select the action you just installed from the Actions Panel and hit the **PLAY** button.
+
+
+Thanks for purchasing my actions, have fun :)

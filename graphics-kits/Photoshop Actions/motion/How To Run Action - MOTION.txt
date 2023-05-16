@@ -1,0 +1,8 @@
+HOW TO RUN THE ACTION
+
+1. Open a photo you want to work with(Best work with resolution of upto 3500px).
+2. Make sure your photo is a locked background layer.
+3. Create a layer named 'brush' above the background layer and paint the area which you want to be in focus.
+5. Play the action and see the result, enjoy that or adjust that!
+
+That's It!

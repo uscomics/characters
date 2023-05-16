@@ -1,0 +1,22 @@
+Smoke effect
+
+.atn file
+
+
+Install:
+
+-Open/create a new file in PS
+-Make sure your “actions” palette is open
+-If not, go to Window -> Actions
+-In the actions palette go to the right side menu and click on it
+-This will open a drop down box
+-Click on “load actions” in the drop down menu
+-Find .atn file 
+-Select the “smoke effect.atn” file 
+-Then click “open”
+-Your action will appear in the actions palette
+-Select the action
+-Create a new layer “brush”
+-Click on “play selection”
+-Place all the .png files
+

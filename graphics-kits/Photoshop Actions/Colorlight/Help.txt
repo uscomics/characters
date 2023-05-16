@@ -1,0 +1,71 @@
+
+
+Hi!
+Thank you very much for purchasing 
+Colorlight Photoshop Action.
+
+
+ABOUT PORTFOLIUM
+-----------------------------
+
+Universal post processing Photoshop action with studio lights and soft focus effects. Best for portraits, faces, profiles etc. Highly detailed result, a lot of possibilities to easy customize and improve. One click action. Video tutorial included.
+
+This action created, tested and working on Photoshop CC, CC2014, CC2015, CC2017+ (only English versions). If you are not using the English version, you can switch your Photoshop in English, play the action and return to your language back.How to do it https://www.youtube.com/results?search_query=How+to+change+language+on+Photoshop+to+english.
+
+
+PLEASE CHECK BEFORE PLAY THE ACTION
+-----------------------------------
+
+1. Your photo size is between 3000-4000px (recommended 3500px)
+2. Your photo resolution is between 240-300dpi (recommended 300dpi)
+3. Your photo is RGB and 8bit color mode in Photoshop
+4. Your version of Photoshop is English (only)
+5. Your version of Photoshop is one of CS3, CS4, CS5, CS6, CC, CC2014, CC2015, CC2017+
+6. Your Photoshop brushes opacity is 100% and brushes flow is 100%
+7. Your photo set as the Background (if not, please click Layer -> New -> Layer from Background)
+
+
+HOW TO INSTALL THE ACTION
+-----------------------------------
+
+1. Open Photoshop :)
+2. Make sure your Actions Panel is open. If not, go to Window -> Actions.
+3. In the actions palette on the top right corner click on the lines icon. Next, click on Load Actions.
+4. Select the action you wish to install and then click Open.
+5. Your action must now appear in the actions palette.
+
+
+HOW TO INSTALL THE BRUSHES
+-----------------------------
+
+1. Open Photoshop.
+2. Make sure your select the Brush Tool on Tools Panel. If not, go to Window -> Tools.
+3. In the brushes palette on the top right corner click on the icon. Next, click on LOAD BRUSHES.
+4. Select brushes you wish to install and then click OPEN.
+5. Your BRUSHES will now appear in the brushes palette and are ready to be used.
+
+
+HOW TO USE ACTION
+-----------------------------
+
+Highly recommended to see video tutorial before using the action! 
+https://youtu.be/1IsuSMb9zRI
+
+1. Install the Action and Brushes (see instructions above)
+2. Create a new layer above the background layer and called it «brush» (not «Brush»). Don't forget to do it!
+3. With the «brush» layer selected, paint out (use any color soft brush) above your photo to choose object for the effect.
+4. Click play button on action panel. That's all!
+5. You can also customize and improve the result. Turn on/off or duplicate folders and layers.
+
+
+-----------------------------------
+
+Hope you like the action! Your opinion is very important to us!
+Please, do not forget to rate this item (https://graphicriver.net/downloads) if you like it.
+
+And always be free to contact us with any questions (vasdesign16@gmail.com).
+Thank you very much for your feedback! 
+
+Best regards,
+Vasdee
+

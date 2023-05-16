@@ -1,0 +1,33 @@
+Hello and thank you for your purchase!
+------------------------------------------
+
+Easy to use ¥ Well organized layers ¥ Fully editable layers ¥ Easy to customize ¥ Non-destructive actions 
+¥ Well documented instructions ¥ This action has been tested and works on Photoshop CS3, CS4, CS5, CS6, CC and CC 2014 (tested in English version)
+¥ Recommended to use high resolution photo sizes between 1000 Ð 5000px (min resolution: 72dpi)
+
+
+ATTENTION!!! BEFORE USE DO THIS OPERATIONS!!!
+
+1. Make sure you are using the ENGLISH version of Photoshop; 
+
+2. Go to: Image / Mode and check the "RGB color" and "8 Bits/Channel";
+
+3. (Just for CS5 and higher versions) Click on menu icon at the right on "LAYERS" panel and go to "Panel Option...", 
+and check the "Add "copy" to Copied Layers and Groups".
+
+
+HOW TO USE ACTION?
+
+
+1. Open the action (for that go to: Window / Actions, click on menu icon at the right and choose in list "Load Actions..." 
+then find the action on your computer and open it; 
+
+2. Open your background image;
+
+3. Find action in the action list and open it and click play 
+
+4. Wait a few seconds that Photoshop make all actions (speed of action work depends of the power of your computer); 
+
+5. Then change the colors and Effects if you need 
+
+6. Ready! just save.

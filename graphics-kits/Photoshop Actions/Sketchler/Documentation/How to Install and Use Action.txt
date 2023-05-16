@@ -1,0 +1,36 @@
+First, thank you for purchasing Sketchler Sketch Photoshop Action and supporting my work .
+
+First before using this Action You must check few things:
+
+1. You need to have English version of Photoshop
+
+2. You need to have RGB Color checked ( Go to Image > Mode and Check RGB Color)
+
+3. After, in that same panel check 8 Bits/Channel option
+
+4. Go to Layers , Click on little icon in upper right corner and go to Layers Panel Options and check "Add "copy" to Copied Layers and Groups"
+
+
+NOTE : After Action is completed you can close all folders by holding ALT and clicking on the main folder like "Adjustments" on litte arrow next to folder icon in layers panel
+
+
+
+
+1. Go to the "Window" button in Menu and select "Actions"
+
+2. In the Actions Panel go to the upper right corner and press that button and press "Load Actions"
+
+3. Now go to the Sketchler Sketch Action folder and load "Sketchler Sketch.atn"
+
+4. Sketchler Sketch Action in Actions panel will appear
+
+5. Goto - Edit>Preset>preset Manager to load brushes and Patterns
+
+6. Now Create new layer set the name "Brush" and brush your Image area you want
+
+9. Now you can Run Color Dive Action
+
+
+thats it
+
+Thank you!
