@@ -1,0 +1,16 @@
+HOW TO MAKE YOUR OWN COFFEE RINGS
+
+Here's a a very brief guide as to how I made the coffee rings in this brush set.
+
+First drag out a circular selection about, say, 300-400 pixels.
+Next, go to Select>Modify>Border and set a width for the ring border. 15 will give a thin ring, whilst 30 will be wider.
+Use the Lasso tool to add uneven bits to the selection here and there, or remove entire sections (you might want to look at some images of real coffee rings on Google Images as a reference.)
+Now select the first brush in the set - the Stain Brush.
+Pass the brush once over the whole selection, then reduce the brush to slightly less that width of ring border.
+Then, on a new layer, paint in some hard edges and use a low opacity eraser to clean up any odd overlaps.
+
+With some experimentation and by referring to real coffee ring images, you should get something fairly convincing results.
+
+To make a coffee stain, try creating a selection from a paint splat and then, on a new layer, use the Stain Brush to fill the selection.
+
+If you make any useful rings or stains, don't forget to upload them to Brusheezy.Com

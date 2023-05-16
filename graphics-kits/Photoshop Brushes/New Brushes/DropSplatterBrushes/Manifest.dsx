@@ -1,0 +1,4 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="18027c1b-082b-411d-ac36-55017d1f42eb"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/Orestes Graphics/Drop Splatter Brushes/Orestes_Splatter_Brushes01.abr"/>
+</DAZInstallManifest>

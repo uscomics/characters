@@ -1,0 +1,36 @@
+GETTING THE BEST OUT OF SPACE BRUSHES COLLECTION
+
+Go ahead and open the Photoshop file enclosed in the zip (Space Brushes Demo.psd) to get an idea of how I put the scene together in the following manner:
+
+First I filled the background with a really dark, blue gradient - but a solid colour will do just fine.
+
+Next, on a new layer, the background of stars was created by using the Dense Star Sprayer brush first. I reduced the brush size and made a diagonal line of smaller stars to represent the milky way. Then I added a couple of constellations and finally a few single stars.
+
+
+I then created a new layer for the nebula, chose a red colour and the Nebula brush. This wasn't quite enough, so I added two more layers and used Nebula brushes 2 & 3 to add a bit more.
+
+Another new for the big galaxy in the bottom left. Then I created a selection from this layer by holding down the Ctrl key and clicking on the layer thumbnail. I did this so that I could a Gradient Map layer to colour the galaxy - reducing the opacity.
+
+The comet was made with the Comet 2 brush on another new layer.
+
+GAS GIANT, ASTEROIDS, MOONS, SPACESTATION, CRATERS AND OTHER SOLID BODIES
+
+All these, were made with following technique:
+Use the asteroid, moon, etc brush on a new layer.
+Create a new layer underneath and using a standard hard round or soft brush, paint the area underneath the object with black.
+
+COLOURING OBJECTS - EG. GAS GIANT.
+
+Take a look at the PSD and you can see that I have coloured the gas giant using a NOISE Gradient on a new layer, which has had its blend mode set to colour.
+I made a selection of the Gas Giant first, then created the new Gradient Fill layer, before playing around with the Noise and Randomize controls in the Gradient Editor.
+The opacity of this layer was reduced after i set the blend mode to colour.
+
+The second planet (top centre) was made in similar way using the Cresecent Body brush - again painting with black on the layer underneath. (In fact I made a circular selection first to make this easier - hold down Alt + Shift and drag from the centre)
+This time I used Layer FX to colour the body. All I did was find a suitbaly mottled pattern and use Pattern Overlay.
+The effect was little dull, so I made a selection from the layer and added a Brighness/Contrast Adjustment Layer and brightened a little.
+
+The other objects - moon, asteroid, cratered surface and space station, were made in similar way.
+
+Many of these brushes were made from images from NASA's website. Whilst they have placed these images in the Public Domain, and so are copyright free, even for commercial purposes there are, nevertheless, still a few usage restrictions which you need to be careful of. You can find these at http://www.nasa.gov/audience/formedia/features/MP_Photo_Guidelines.html#.UeZLMaxnA7g
+
+

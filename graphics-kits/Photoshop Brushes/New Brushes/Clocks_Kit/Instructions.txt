@@ -1,0 +1,19 @@
+HOW TO USE CLOCKS KIT
+
+Instal in the Brushes sub-folder in the Presets folder in Photoshop.
+
+
+The key tip is to make sure you place each element on a separate layer.
+Use the [ and ] (square brackets) keys to resize the hour and minute hands more easily.
+To rotate the hour and minute hands:
+	Press Ctrl+T to start the transform tool.
+	Hold down the Alt key so you can move the Centre of Roatation to the centre of the hour or minute hand.
+	Rotate the hand.
+	Press enter or click the tick to confirm the transformation.
+
+Use layer FX and Styles to create more realistic looks.
+
+To create a perfectly centred back plate for your clock, select either the ellipse tool or the elliptical marquee tool.
+Centre the cursor on the middle of the clock.
+Hold down Alt+Shift and drag out the circle. 
+
