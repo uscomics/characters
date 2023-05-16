@@ -1,0 +1,40 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="8a680019-c3a2-48fc-a91e-ee545bb48bcb"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/Artistic Edges readme.txt"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/content alpha channels.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/content.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/001.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/002.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/003.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/004.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/005.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/006.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/007.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/008.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/009.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/010.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/011.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/012.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/013.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/014.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/015.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/016.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/017.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/018.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/019.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/020.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/021.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/022.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/023.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/024.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/025.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/026.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/027.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/028.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/029.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/deviney/Rons Artistic Edges/8x10 Templates/030.psd"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/ReadMe's/readme_8954_1_RonsArtisticEdges.html"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/ReadMe's/pics/8954.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/ReadMe's/pics/dazlogo.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/ReadMe's/ProductLists/FileList_8954_1_RonsArtisticEdges_1.txt"/>
+</DAZInstallManifest>

@@ -1,0 +1,67 @@
+: Footprint File For []
+
+: This is a commented line
+
+: WIN_OSX
+:  COMMON
+\deviney\Rons Artistic Edges\Artistic Edges readme.txt
+\deviney\Rons Artistic Edges\content alpha channels.jpg
+\deviney\Rons Artistic Edges\content.jpg
+\deviney\Rons Artistic Edges\8x10 Templates\001.psd
+\deviney\Rons Artistic Edges\8x10 Templates\002.psd
+\deviney\Rons Artistic Edges\8x10 Templates\003.psd
+\deviney\Rons Artistic Edges\8x10 Templates\004.psd
+\deviney\Rons Artistic Edges\8x10 Templates\005.psd
+\deviney\Rons Artistic Edges\8x10 Templates\006.psd
+\deviney\Rons Artistic Edges\8x10 Templates\007.psd
+\deviney\Rons Artistic Edges\8x10 Templates\008.psd
+\deviney\Rons Artistic Edges\8x10 Templates\009.psd
+\deviney\Rons Artistic Edges\8x10 Templates\010.psd
+\deviney\Rons Artistic Edges\8x10 Templates\011.psd
+\deviney\Rons Artistic Edges\8x10 Templates\012.psd
+\deviney\Rons Artistic Edges\8x10 Templates\013.psd
+\deviney\Rons Artistic Edges\8x10 Templates\014.psd
+\deviney\Rons Artistic Edges\8x10 Templates\015.psd
+\deviney\Rons Artistic Edges\8x10 Templates\016.psd
+\deviney\Rons Artistic Edges\8x10 Templates\017.psd
+\deviney\Rons Artistic Edges\8x10 Templates\018.psd
+\deviney\Rons Artistic Edges\8x10 Templates\019.psd
+\deviney\Rons Artistic Edges\8x10 Templates\020.psd
+\deviney\Rons Artistic Edges\8x10 Templates\021.psd
+\deviney\Rons Artistic Edges\8x10 Templates\022.psd
+\deviney\Rons Artistic Edges\8x10 Templates\023.psd
+\deviney\Rons Artistic Edges\8x10 Templates\024.psd
+\deviney\Rons Artistic Edges\8x10 Templates\025.psd
+\deviney\Rons Artistic Edges\8x10 Templates\026.psd
+\deviney\Rons Artistic Edges\8x10 Templates\027.psd
+\deviney\Rons Artistic Edges\8x10 Templates\028.psd
+\deviney\Rons Artistic Edges\8x10 Templates\029.psd
+\deviney\Rons Artistic Edges\8x10 Templates\030.psd
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: WIN
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: OSX
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+

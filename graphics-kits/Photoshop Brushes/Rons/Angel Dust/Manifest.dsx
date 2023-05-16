@@ -1,0 +1,5 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="13738883-26d2-4907-a06c-29086b111f0d"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Rons Angel Dust/Rons Angel Dust.abr"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/12859_rons-angel-dust.pdf"/>
+</DAZInstallManifest>
