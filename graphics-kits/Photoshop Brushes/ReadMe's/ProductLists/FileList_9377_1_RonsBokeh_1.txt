@@ -1,0 +1,36 @@
+: Footprint File For []
+
+: This is a commented line
+
+: WIN_OSX
+:  COMMON
+\deviney\Rons Bokeh\Rons Bokeh Brushes.abr
+\deviney\Rons Bokeh\Rons Bokeh readme.txt
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: WIN
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: OSX
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
