@@ -1,0 +1,35 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="dab9cec4-1baf-4ce0-93e4-f8518a0f6667"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/1.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/10.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/11.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/12.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/13.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/14.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/15.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/16.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/17.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/18.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/19.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/2.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/20.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/21.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/22.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/23.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/24.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/25.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/26.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/27.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/28.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/29.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/3.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/30.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/4.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/5.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/6.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/7.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/8.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/deviney/Ron's Glitter/Glitter Backgrounds/9.jpg"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/ReadMe's/37953_ron's-background-glitter.pdf"/>
+ <File TARGET="Content" ACTION="Install" VALUE="Content/General/ReadMe's/37953_ron's-photoshop-brushes-glitter.pdf"/>
+</DAZInstallManifest>
