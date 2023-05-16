@@ -1,0 +1,10 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="931f72e0-931d-4cae-b0e0-a72592108d39"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Hydro Explosion/readme Rons Hydro Explosion.txt"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Hydro Explosion/Rons Hydro Explosion.abr"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Hydro Explosion/Rons Hydro Explosion.pdf"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/readme_11030_1_RonsHydroExplosion.html"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/11030.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/dazlogo.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/ProductLists/FileList_11030_1_RonsHydroExplosion_1.txt"/>
+</DAZInstallManifest>

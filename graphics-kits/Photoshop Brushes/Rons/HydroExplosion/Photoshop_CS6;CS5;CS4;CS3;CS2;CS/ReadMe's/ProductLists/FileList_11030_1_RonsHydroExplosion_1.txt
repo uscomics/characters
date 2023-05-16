@@ -1,0 +1,37 @@
+: Footprint File For []
+
+: This is a commented line
+
+: WIN_OSX
+:  COMMON
+\deviney\Hydro Explosion\readme Rons Hydro Explosion.txt
+\deviney\Hydro Explosion\Rons Hydro Explosion.abr
+\deviney\Hydro Explosion\Rons Hydro Explosion.pdf
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: WIN
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: OSX
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
