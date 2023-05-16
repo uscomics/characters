@@ -1,0 +1,5 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="39ccbe1e-a6bd-4860-8218-b8f87f45b7fb"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Waterline/Rons Waterline Brushes.pdf"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Waterline/Rons waterline.abr"/>
+</DAZInstallManifest>
