@@ -1,0 +1,5 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="c7ce800b-e14e-41e6-86bf-3249e4cc26cd"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Smoke/rons smoke 2.abr"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Smoke/rons smoke.abr"/>
+</DAZInstallManifest>

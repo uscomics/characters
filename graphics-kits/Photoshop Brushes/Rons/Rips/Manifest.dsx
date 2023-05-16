@@ -1,0 +1,5 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="268816f4-6847-423a-92b6-ca8874dec122"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Rips/readme.txt"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Rips/Rons Rips.abr"/>
+</DAZInstallManifest>
