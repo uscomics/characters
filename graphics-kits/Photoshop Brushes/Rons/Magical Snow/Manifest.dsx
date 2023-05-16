@@ -1,0 +1,9 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="e9db0a9f-78c4-4b23-9f6e-ede005b1bcbb"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/Deviney/Rons Magical Snow/readme Rons Magical Snow.txt"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/Deviney/Rons Magical Snow/Rons Magical Snow.abr"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/readme_11560_1_RonsMagicalSnow.html"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/11560.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/dazlogo.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/ProductLists/FileList_11560_1_RonsMagicalSnow_1.txt"/>
+</DAZInstallManifest>

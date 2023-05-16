@@ -1,0 +1,36 @@
+: Footprint File For []
+
+: This is a commented line
+
+: WIN_OSX
+:  COMMON
+\Deviney\Rons Magical Snow\readme Rons Magical Snow.txt
+\Deviney\Rons Magical Snow\Rons Magical Snow.abr
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: WIN
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: OSX
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+

@@ -1,0 +1,5 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="a672f6a1-b938-4bc2-8584-6391bfcbab22"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Particles/Rons Particles.abr"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Styles/deviney/Rons Particles/Rons Particle Glow Styles.asl"/>
+</DAZInstallManifest>
