@@ -1,0 +1,10 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="25a47574-1347-4568-9d5a-1352cd158ff3"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Ron's Condensation/readme Rons Condensation.txt"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Ron's Condensation/Rons Condensation.abr"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/Presets/Brushes/deviney/Ron's Condensation/Rons Condensation.pdf"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/readme_10657_1_RonsCondensation.html"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/10657.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/pics/dazlogo.jpg"/>
+ <File TARGET="Application" VERSION="CS6;CS5;CS4;CS3;CS2;CS" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CS6;CS5;CS4;CS3;CS2;CS/ReadMe's/ProductLists/FileList_10657_1_RonsCondensation_1.txt"/>
+</DAZInstallManifest>

@@ -1,0 +1,37 @@
+: Footprint File For []
+
+: This is a commented line
+
+: WIN_OSX
+:  COMMON
+\deviney\Ron's Condensation\readme Rons Condensation.txt
+\deviney\Ron's Condensation\Rons Condensation.abr
+\deviney\Ron's Condensation\Rons Condensation.pdf
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: WIN
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
+: OSX
+:  COMMON
+
+:  STUDIO
+
+:  POSER6
+
+:  POSER7
+
+
