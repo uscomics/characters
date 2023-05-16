@@ -1,0 +1,4 @@
+<DAZInstallManifest VERSION="0.1">
+ <GlobalID VALUE="48ced648-5f12-41e2-bd3f-7627a0d276e6"/>
+ <File TARGET="Application" VERSION="CC;CS6;CS5;CS4;CS3;CS2;CS;7" ACTION="Install" TYPE="Photoshop" VALUE="Photoshop_CC;CS6;CS5;CS4;CS3;CS2;CS;7/Presets/Brushes/deviney/Rons Fog/rons fog.abr"/>
+</DAZInstallManifest>
