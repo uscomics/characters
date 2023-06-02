@@ -1,0 +1,591 @@
+newmtl 4_InnerMouth:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.501961 0.501961 0.501961
+map_Kd V4SmplMouthM.jpg
+d 1
+newmtl 4_Gums:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplMouthM.jpg
+d 1
+newmtl 4_Teeth:1
+Ns 100
+Ka 0.2 0.2 0.2
+Kd 0.931372 0.856863 0.95
+Ks 0 0 0
+map_Kd V4SmplMouthM.jpg
+d 1
+newmtl 4_Tongue:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplMouthM.jpg
+d 1
+newmtl 2_SkinHead:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplTorsoM_BKN.jpg
+d 1
+newmtl 2_SkinNeck:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplTorsoM_BKN.jpg
+d 1
+newmtl 2_SkinTorso:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplTorsoM_BKN.jpg
+d 1
+newmtl 2_Nipple:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplTorsoM_BKN.jpg
+d 1
+newmtl 2_SkinHip:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplTorsoM_BKN.jpg
+d 1
+newmtl 3_SkinArm:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 3_SkinFoot:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 3_SkinForearm:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 3_SkinHand:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 3_SkinLeg:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 6_Eyelash:1
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+map_d  V4SmplLashesTr.jpg
+newmtl 3_Fingernail:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 3_Toenail:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplLimbsM.jpg
+d 1
+newmtl 5_Cornea:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.968628 0.968628 0.968628
+map_Kd V4SmplEyesM.jpg
+d 1
+map_d  V4SmplEyesTr.jpg
+newmtl 5_Sclera:1
+Ns 18
+Ka 0.188235 0.2 0.2
+Kd 0.847059 0.9 0.9
+Ks 0.196078 0.0745098 0.101961
+map_Kd V4SmplEyesM.jpg
+d 1
+map_d  V4SmplEyesTr.jpg
+newmtl 7_EyeSurface:1
+Ns 18
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplEyeSurfcM.jpg
+d 1
+map_d  V4SmplEyeSurfcTr.jpg
+newmtl 5_Iris:1
+Ns 18
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplEyesM.jpg
+d 1
+newmtl 5_Pupil:1
+Ns 18
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplEyesM.jpg
+d 1
+newmtl 5_Lacrimal:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd V4SmplEyesM.jpg
+d 1
+newmtl 7_Tear:1
+Ns 18
+Ka 0 0 0
+Kd 0.992157 0.992157 0.992157
+Ks 0.196078 0.0745098 0.101961
+d 0
+newmtl 1_EyeSocket:1
+Ns 18
+Ka 0 0 0
+Kd 0.835294 0.647059 0.584314
+Ks 0.098039 0.0372549 0.0509805
+d 1
+newmtl 1_SkinFace:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplFaceM_BKN.jpg
+d 1
+newmtl 1_Lip:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.337255 0 0.14902
+Ks 0 0 0
+map_Kd V4SmplFaceM_BKN.jpg
+d 1
+newmtl 1_Nostril:1
+Ns 11.5728
+Ka 0.0784314 0 0
+Kd 0.843137 0.980392 0.980392
+Ks 0 0 0
+map_Kd V4SmplFaceM_BKN.jpg
+d 1
+newmtl 1_Eyebrow:1
+Ns 18
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.0784314 0.0705882 0.054902
+d 1
+newmtl 2_SkinAbs:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl 2_Strapless:2
+Ns 18
+Ka 0 0 0
+Kd 0.0235294 0.0235294 0.0235294
+Ks 0.945098 0.945098 0.945098
+d 1
+newmtl 2_StraplessV:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.992157 0.992157 0.992157
+d 1
+newmtl 2_UBackLower:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_UBackOuterLow:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_UBackOuterMid:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 2_Straps:2
+Ns 18
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.945098 0.945098 0.945098
+d 1
+newmtl 3_Arm1:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_UNeck:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 2_TurtleNeck:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_LowUNeck:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 2_VNeck:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_StrapOuter:2
+Ns 18
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 2_UBackUpper:2
+Ns 18
+Ka 0 0 0
+Kd 0.0117647 0.0117647 0.0117647
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 2_UBackOuterUp:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 2_Gap:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 2_Thong:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.831373 0.831373 0.831373
+d 1
+newmtl 2_SkinHip:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 3_Leg1:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 3_Arm2:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 3_Arm4:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 3_Arm5:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 3_Arm6:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.945098 0.945098 0.945098
+d 1
+newmtl 3_Leg6:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 3_Leg7:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 3_Leg5:2
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 3_Leg4:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl 3_Arm3:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.917647 0.917647 0.917647
+d 1
+newmtl 3_Leg3:2
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.858824 0.858824 0.858824
+d 1
+newmtl 3_Leg2:2
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.886275 0.886275 0.886275
+d 1
+newmtl Gloves:3
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.968627 0.968627 0.968627
+d 1
+newmtl ShortGloves:3
+Ns 18
+Ka 0 0 0
+Kd 0.00784314 0.00784314 0.00784314
+Ks 0.980392 0.980392 0.980392
+d 1
+newmtl LongGloves:3
+Ns 18
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.980392 0.980392 0.980392
+d 1
+newmtl Pouch:4
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Belt:4
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Buckle:4
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Ring:4
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl LegStrap:4
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Holster:4
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Gun:4
+Ns 80.7767
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.309804 0.309804 0.309804
+map_Kd A3SDGunT.jpg
+d 1
+newmtl Metal:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Zip:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Leather:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Leather_upper:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Heel:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Sole:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Sole_Bottom:5
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Metal:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Zip:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Leather:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Leather_upper:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Heel:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Sole:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Sole_Bottom:6
+Ns 18
+Ka 0 0 0
+Kd 0.00392157 0.00392157 0.00392157
+Ks 0.984314 0.984314 0.984314
+d 1
+newmtl Skullcap:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliC_Tex11.jpg
+map_Bump  ValLolliC_Bump.jpg
+d 1
+map_d  ValLolliC_Tr.jpg
+newmtl Base:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg
+newmtl TopWisps:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg
+newmtl Bangs:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg
+newmtl Wisps:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg
+newmtl Back:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg
+newmtl BackWisps:7
+Ns 2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0.835294 0.835294 0.835294
+map_Kd ValLolliH_Tex11.jpg
+map_Bump  ValLolliH_Bump.jpg
+d 1
+map_d  ValLolliH_Tr.jpg

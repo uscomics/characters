@@ -1,0 +1,102 @@
+newmtl Preview
+Ns 50
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl p38text1
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Material1
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl _Charcoal_
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Metal_Panel
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Metal_Aluminum_Anodized
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Fencing_Mesh_Blue
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Material3
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl jean_blue
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl M_0129_WhiteSmoke
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl FrontColor
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl p38text3
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Translucent_Glass_Gray
+Ns 10
+Ka 0 0 0
+Kd 0.737255 0.737255 0.737255
+Ks 0.941176 0.941176 0.941176
+d 0.2
+newmtl M_0020_Red
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl Material2
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl piloto
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 0
+newmtl _Gray6_
+Ns 10
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
