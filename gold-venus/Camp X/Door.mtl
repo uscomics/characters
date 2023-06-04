@@ -1,0 +1,108 @@
+newmtl wall_outer:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_exterior.jpg
+d 1
+newmtl wall:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_wave1.jpg
+d 1
+newmtl door_inset:1
+Ns 5
+Ka 0 0 0
+Kd 0.647059 0.545098 0.478431
+Ks 0.313725 0.313725 0.313725
+map_Kd rc0wood01.jpg
+d 1
+newmtl w_baseboard:1
+Ns 5
+Ka 0 0 0
+Kd 0.647059 0.545098 0.478431
+Ks 0.313725 0.313725 0.313725
+map_Kd rc0wood01.jpg
+d 1
+newmtl w_molding:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Bump  rc0wall_moldingB1.jpg
+d 1
+newmtl door_frame:1
+Ns 5
+Ka 0 0 0
+Kd 0.647059 0.545098 0.478431
+Ks 0.313725 0.313725 0.313725
+map_Kd rc0wood01.jpg
+d 1
+newmtl handle:1
+Ns 10.5728
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl hinge:1
+Ns 10.5728
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+d 1
+newmtl door:1
+Ns 5
+Ka 0 0 0
+Kd 0.647059 0.545098 0.478431
+Ks 0.313725 0.313725 0.313725
+map_Kd rc0wood01.jpg
+d 1
+newmtl door_panel:1
+Ns 5
+Ka 0 0 0
+Kd 0.647059 0.545098 0.478431
+Ks 0.313725 0.313725 0.313725
+map_Kd rc0wood01.jpg
+d 1
+newmtl hinge_back:1
+Ns 100
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0
+newmtl wall_front:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_wave1.jpg
+d 1
+newmtl wall_left:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_wave1.jpg
+d 1
+newmtl wall_right:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_wave1.jpg
+d 1
+newmtl wall_back:1
+Ns 1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+map_Kd rc0wall_exterior.jpg
+d 1
+newmtl Preview:2
+Ns 10
+Ka 0 0 0
+Kd 0.8 0.8 0.8
+Ks 0 0 0
+d 1
