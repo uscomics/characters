@@ -1,0 +1,185 @@
+newmtl rock_and_grass0
+Ka 0 0 0
+Ns 14.0132
+Ks 1 1 1
+Kd 0.385354 0.397554 0.350495
+newmtl rock_and_grass1
+Ka 0 0 0
+Ns 14.0132
+Ks 1 1 1
+Kd 0.385354 0.397554 0.350495
+newmtl rock_and_grass2
+Ka 0 0 0
+Ns 14.0132
+Ks 1 1 1
+Kd 0.829332 0.830478 0.846143
+newmtl Flat_gray0
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray1
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray2
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray3
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray4
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray5
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Flat_gray6
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Dry_Weed0
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Dry_Weed1
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Dry_Weed2
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Dry_Weed3
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Flat_gray7
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Dry_Weed4
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Flat_gray8
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Carex
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0 0 0
+newmtl Flat_gray9
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.392471 0.39702 0.389333
+newmtl Bush_10
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.742054 0.634978 0.406145
+newmtl Bush_11
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.742054 0.634978 0.406145
+newmtl pine_trunk0
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk1
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk2
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl Flat_gray10
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.117647 0.164706 0.0980392
+newmtl pine_trunk3
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk4
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk5
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl Flat_gray11
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.117647 0.164706 0.0980392
+newmtl pine_trunk6
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk7
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk8
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl Flat_gray12
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.117647 0.164706 0.0980392
+newmtl pine_trunk9
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk10
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl pine_trunk11
+Ka 0 0 0
+Ns 7.69061
+Ks 1 1 1
+Kd 0.477804 0.460079 0.423059
+newmtl Flat_gray13
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.117647 0.164706 0.0980392

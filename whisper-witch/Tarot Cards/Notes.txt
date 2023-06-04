@@ -1,0 +1,387 @@
+
+
+An Analysis Of The Hermetic Tree Of Life
+Using The Mathematics Known As Love
+Copyright © 2013 by Erin O'Hara. All rights reserved.
+
+
+Table of Contents
+Section I	3
+A New Foundation For The Hermetic Tree Of Life	3
+What Is Love?	4
+What Is The Hermetic Tree Of Life?	4
+Difficulties Involved In Analyzing The Hermetic Tree Of Life	5
+Equating Love Numbers With The Sephiroth	5
+The Paths On The Tree Of Life	5
+Defining The Paths On The Tree Of Life	6
+Summary Of Section I	7
+Section II	8
+The New Paths On The Hermetic Tree Of Life	8
+New Systems For The New Paths	10
+The Energies And Environments	11
+The Energies	11
+Void	11
+The Environments	12
+The Diamonds Of Daath	12
+Simple English Gematria	13
+Liber 777 Notes	14
+Liber 500 Notes	15
+Thelema	17
+
+
+
+
+
+
+
+
+Section I
+A New Foundation For The Hermetic Tree Of Life
+
+This section presents an analysis of the Hermetic Tree of Life using a branch of Mathematics known  as Love. The document provides a brief introduction to Love, a brief introduction to the Hermetic Tree of Life, the difficulties inherent in analyzing the Tree of Life, the solution to these difficulties, and the analysis itself.
+The results of this analysis provide a vast simplification of the Hermetic Tree of Life and  allows for the creation of several new systems that were latent within the Tree of Life, but undiscovered until now.
+
+What Is Love?
+Love is a system of mathematics designed to be useful in the analysis of qualitative information. It works well with things like emotions, feelings, and even metaphysics. A brief, non-formal1, introduction is provided here.
+A number in Love does not represent the counting of things, but rather represents the type of thing. For example, water is a type of thing, regardless of how much water we have. We can assign a Love number to water and use that number every time we mean water. The assignment of numbers is arbitrary in the sense that one analysis may assign water to the number 1, and another unrelated analysis may assign something completely different to the number 1, say dogs. Assigning a Love number to a thing can be thought of as declaring that number to be a synonym for that thing.
+When a new thing comes along, we assign it to a new number. For example, in an analysis where water has been assigned to 1, we can assign dirt to the next number, 2.
+Once we have multiple numbers representing different things, we immediately combine those things to produce a new thing, and therefore a new number. For example, in an analysis where 1 is water and 2 is dirt, we combine them together to get a new thing, mud, and assign mud to the number 3.
+The numbers that represent uncombined things are called Simple Numbers. The sequence of simple numbers is 1, 2, 4, 8, 16, 32, 64, etc. as well as -1, -2, -4, -8, -16, -32, -64, etc.
+All numbers that are not simple numbers are Compound Numbers. 3, 5, 6, 7, 9, 10, 11, 12, etc are all examples of compound  numbers, as are -3, -5, -6, -7, -9, -10, -11, -12, etc.
+Love allows for functions, which are a set of operations performed on one or more numbers and providing one or more numbers as a result.
+The key point to all of this is a number in Love represents a type of thing, not the amount of that thing. For example, if we assign water to the number 1 and add more water to it, we still have only water. This is represented in Love as 1 + 1 = 1. Similarly, if we assign dirt to 2 and add more dirt to it, we have only dirt: 2 + 2 = 2. 
+It is only when we mix the simple numbers to form a compound number that we get a new number. Water plus dirt equals mud. 1 + 2 = 3.
+What Is The Hermetic Tree Of Life?
+The Tree of Life is major part of a system known as Kabbalah. There are several branches of Kabbalah.i ii iii Here we will be analyzing the branch known as Hermetic Qabalah. This is an extremely complicated system that was developed over several centuries.iv Over that period the Hermetic Tree of Life has come to be associated with tarot cards, astrology, alchemy, numerology, old pagan gods, and numerous other systems.v vi vii viii These associations are used to explain the meaning of the various parts of the Hermetic Tree of Life.ix The parts of the Tree of Life consist of several sephiroth, which are drawn as circles in the diagram of the Tree of Life, and the several paths that connect them.
+Additional details on the Tree will be provided as we go along.
+Difficulties Involved In Analyzing The Hermetic Tree Of Life
+Difficulty in analyzing the Tree of Life arises due to the fact that none of the explanatory associations assigned to the parts of the Tree of Life are simple. For example, the Tarot cards are themselves a very complex system made of multiple components.x As it is now, to analyze the Hermetic Tree of Life, one must also analyze at least several of these other complex systems.xi
+The situation with the current system is hopeless. The solution presented here is to toss out all of the current system and start anew. This means original research must be carried out. Once this research is done one can re-introduce the old associations if desired, but as commentary on the system rather than as definitions.
+Equating Love Numbers With The Sephiroth
+At this point, we have thrown out the entire Tree and all of its supporting nomenclature. We continue the analysis by re-introducing as little as we can to build the Tree. Each step along the way will be accompanied by axioms stating exactly what is being done. To reconstruct the sephiroth, we need two axioms, shown below.
+Axiom 1: There are eleven sephiroth on the Tree of Life.
+Axiom 2: Each sephiroth is a unique thing, not a combination of other sephiroth.
+With each sephiroth on the Tree of Life now defined as a thing in itself, we can assign each sephiroth to a Love Number, as follows.
+
+Kether = 1
+Binah = 4
+Geburah = 16
+Netzach = 64
+Yesod = 256
+Daath = 1024
+Chokmah = 2
+Chesed = 8
+Tiphareth = 32
+Hod = 128
+Malkuth = 512
+
+
+These numbers have no special significance other than they are a sequence of Love simple numbers. Also, the assignments are not correspondences. Rather the numbers are, for the purpose of this analysis, identical to the sephiroth to which they are assigned. Put another way, we are not saying the number 1 has certain affinities with Kether, we are saying the Love number 1 and Kether are synonyms for the purposes of the remainder of this analysis.
+Daath is placed at the end due to it's controversial status as an actual sephiroth. In this analysis we will consider it to be an actual sephiroth. Those who disagree can simply drop off Daath from the end of the analysis.
+We are now in a position to look at the paths on the Tree of Life.
+The Paths On The Tree Of Life
+There are several paths connecting the sephiroth on the Tree of Life. The sephiroth themselves are said to have objective realities that can be contacted through various forms of meditation and ritual. We do not concern ourselves here with the validity of this statement, rather we contrast it with the acknowledgment that the paths connecting the sephiroth are said to represent solely subjective realities.xii
+The first question we must ask is how many of these paths are there? The traditional answer is that there are 22 paths, one for each letter of the Hebrew alphabet and each trump card in the Tarot deck. What principle gives us 22 paths?  There doesn't seem to be any such principle that is universally accepted. In the Book of Thoth, Aleister Crowley states:
+Why should this be so? Why should these paths be arranged on the Tree in the way that the diagram shows? Why should there not be paths connecting the numbers 2 and 5 and the numbers 3 and 4? One cannot answer any of these questions.xiii
+Dion Fortune states that there are “secret paths” on the Tree, pointing out paths that connect Daath with Yesod and with Chesed.xiv  Still other representations of the Tree of Life have 24 (non-secret) paths.xv
+Charles Stansford Jones gives several detailed reasons why he believes there should be no more than 22 pathsxvi, but his reasoning is directly contradicted by Fortune's statements and versions of the Tree which have more than 22 paths.
+The approach taken here is the number of paths placed on the Tree of Life is a convention, nothing more, and there are several conflicting conventions. Therefore, when we use Love to construct the paths, we'll do so in a manner that allows a path to connect any given sephiroth to any other. This gives us several new paths that have never been placed on the Tree of Life before. If there are traditions or individuals opposed to these new paths, they can append  rules as to why such paths should not exist. 
+Defining The Paths On The Tree Of Life
+We will define the paths as a mathematical function that transforms the energies of one sephiroth into another. The following axiom does this.
+Axiom 3: Given any sephiroth on the Tree of Life, X, as a starting point, and any other sephiroth on the Tree, Y, as an ending point, there exists a function, f, of the form Y = f(X), which connects them.
+With this one simple function we end up with a total of 55 paths on the Tree of Life, rather than the traditional 22 paths.2
+Now the function f is just an interface, there is no body written with it. In other words we have no idea, at this point, what exactly the function f is doing to transform X into Y. Because nature of the paths is they are subjective and work differently for different people, I've decided to leave it like this. The body of f is undefined in this analysis, its contents are left up to case analysis by individuals to determine for themselves. One may reintroduce traditional correspondences to the paths, such  as tarot trumps, as aids in determining exactly how each function works, if so desired. 
+Similarly, one may create new systems to cover the new paths. This is the subject of Section II.
+Summary Of Section I
+An short overview of Love and the Hermetic Tree of Life was provided. A quick look at the Tree of Life showed that analysis would prove very difficult due to its overwhelming complexity.
+To remedy this, the old definitions were discarded. New definitions of the sephiroth were created based on interpreting the first 10 Arabic numbers as logograms. The meanings of these logograms were then assigned as the meanings of the first ten sephiroth. The final sephiroth, Malkuth, was defined as representing the material world.
+Each of the sephiroth were then assigned their own Love simple number.
+The subjective paths connecting the sephiroth were then defined with a single Love function. This function allowed a path to connect any two sephiroth. This gives us a total of 55 paths on the Tree of Life, rather than the traditional 22.
+It was pointed out that the paths represent subjective experiences and therefore the details of the function generating the paths will be different for each individual.
+
+
+
+
+
+
+
+
+
+
+
+Section II
+The New Paths On The Hermetic Tree Of Life
+
+This section takes a look at the new paths on the Tree of Life developed in Section I. Various systems designed to help explore these new paths are presented, including a system of English  gematria, new Tarot card trumps, a system that is somewhat similar to zodiac signs, planets and elements used in the old system, and a new element called Void, which is added to the existing elements of Fire, Water, Air, Earth, and Spirit.
+
+
+
+
+
+
+New Systems For The New Paths
+In section I we performed an analysis on the Hermetic Tree of Life. This analysis simplified the Tree while at the same time vastly expanding the amount of information we can extract from it. Specifically, 33 new paths were discovered on the Tree, giving us a grand total of 55 paths.
+In this section we look at adding correspondences to these new paths in order to flesh them out. We'll do this by creating new tarot trump cards for each new path. Tarot cards in the Hermetic tradition are complex. They have several sub-components assigned to them. These sub-components include:
+A number assigned to each card.
+Two sephiroth from the Tree of Life that the card connects.
+A Hebrew letter assigned to each card.
+A Zodiac sign, planet, or element assigned to each card.
+Our new cards will have its own version of each of these. Specifically, they will have:
+A number assigned to each card. These numbers start from the existing sequence, which ends at 21. The first new card (shown here) is number 22. The numbers are at the center top of the card. They use Egyptian numbers rather than Roman numbers, as Egyptian numbers are much easier to read and there are claims that the trumps of the old deck are of Egyptian origin.
+Two sephiroth from the Tree of Life that the card connects. These are shown in the lower left and right corners of the card.
+An English letter assigned to each card. This is shown in the upper left corner of the card. An English gematria has been developed to accompany the letters.
+A correspondence from one of two new systems: The Energies and Environments, and the Diamonds of Daath. These fill the role performed by the zodiac, planet and element correspondences in the old deck. The appropriate symbol assigned to the card is shown in the upper right corner of the card.
+A title and a meaning for divination, shown at the bottom center of the card.
+Before we can introduce these new cards, we must first introduce the component systems they use: The Energies and Environments, the Diamonds of Daath, and the English gematria.
+The Energies And Environments
+The new system of the Energies and Environments fills a role similar to the zodiac, planets, and elements of the old tarot decks. 
+The Energies
+The Energies are a system of 12 elements. These symbols represent the six elemental powers: Void (a new element introduced with this system), Animus, Action, Emotion, Thought, and World supplemented with the concepts of past and future. 
+Animus, Action, Emotion, Thought, and World are similar to Spirit, Fire, Water, Air, and Earth of the old elemental system. When combined with the concepts of past and future,  Action, Emotion, Thought, and World correspond exactly to the I Ching symbols as follows:3
+Energy
+I Ching
+Past Action
+Thunder (Chên)
+Past Emotion
+Joy (Tui)
+Past Thought
+Water (K'an)
+Past World
+Earth (K'un)
+Future Action
+Heaven (Ch'ien)
+Future Emotion
+Fire (Li)
+Future Thought
+Wind (Sun)
+Future World
+Mountain (Kên)
+Void
+Void is a new element. It is the counterpart to Spirit, just as Water and Fire are counterparts, and Air and Earth are counterparts. Void represents nothing, in the sense of 0 = 1 + -1. Its interesting properties are 1) it can be added  to anything at all without changing the receiver, and 2) pairs of opposites (1/-1, 2/-2, etc.) can be extracted from it indefinitely.
+The Environments
+The Environments are a system of 12 influencing powers. They are similar in purpose to the planets assigned to the trumps of the old tarot deck. The two basic environments are Truth and Love. These interact to create Personality. Truth, Love, and Personality combine in pairs to create the remaining 9 Environments, for a total of 12. Their meanings are exactly what their names indicate.
+
+Just as the planets have a relationship with the zodiac signs, so to do the Energies have a relationship with the Environments. Certain pairs of Energies and Environments can mutually strengthen or weaken one another, as shown in the diagrams below.
+
+You can use these strengthening and weakening relations to learn more about the trumps to which each symbol is assigned. For example, trump 36, The Atheist, is assigned to Past Thought, which is strengthened by the Environment Rationality, which is in turn assigned to trump 34, Evolution.
+The Diamonds Of Daath
+The Diamonds are a system where diamonds are traced onto the Tree of Life, with one corner touching Daath. The diamond is then said to contain the powers of the four sephiroth its corners touch. There are ten diamonds in total, shown below.
+Diamond
+Image
+Diamond
+Image
+1st Diamond Of Daath (Kether, Chokmah, Binah, Daath)
+
+6th Diamond Of Daath (Daath, Chesed, Tipareth, Geburah)
+
+2nd Diamond Of Daath (Kether, Chokmah, Chesed, Daath)
+
+7th Diamond Of Daath (Chesed, Netzach, Tipareth, Daath)
+
+3rd Diamond Of Daath (Kether, Binah, Geburah, Daath)
+
+8th Diamond Of Daath (Geburah, Hod, Tipareth, Daath)
+
+4th Diamond Of Daath (Chockmah, Chesed, Tiphareth, Daath)
+
+9th Diamond Of Daath (Daath, Chesed, Geburah, Yesod)
+
+5th Diamond Of Daath (Binah, Geburah, Tiphareth, Daath)
+
+10th Diamond Of Daath (Daath, Netzach, Hod, Malkuth)
+
+
+Because each of the sephiroth have a Love Simple Number assigned to it, these numbers can be added together to represent the power of a given Diamond of Daath. For example, the 1st Diamond of Daath gets its power from Kether (1), Chokmah (2), Binah (4), and Daath (1024). This power can be represented in Love as 1 + 2 + 4 + 1024, or  1031. Just as a reminder, Love numbers have no relationship to gematria.
+Simple English Gematria
+Gematria is a system where every letter in an alphabet is assigned a number so that words can be assigned numbers. Words of the same number value can then be compared, or subject to further manipulation. The Simple English Gematria system shown here provides a way to do this. In the table below each letter is assigned a number. Optionally, capital letters can be multiplied by 10.4
+
+a 1
+b 2
+c 3
+d 4
+e 5
+f 6
+g 7
+h 8
+i 9
+j 10
+k 20
+l 30
+m 40
+n 50
+o 60
+p 70
+q 80
+r 90
+s 100
+t 200
+u 300
+v 400
+w 500
+x 1000
+y 100
+z 10
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+0 0
+
+Liber 777 Notes
+(1) Some fundamental changes have been made to the key scale appearing here as compared to the that found in Crowley's 777.
+	(A) The 0 key scale has been expanded to three key scales: 0, 00, and 000. This was done because there are now items assigned to one of them, but not the other two. The 0, 00, and 000 are part of traditional Qaballah, but they were collapsed together in Crowley's 777.
+	(B) The key scale has been expanded to include 23 new rows. These contain paths that connect sepherah previously shown as unconnected. These new paths, along with the expansion of the 0 key scale, allow for the assignment of the English alphabet to the Tree, along with 26 entirely new Tarot cards. Two news systems, collectively referred to as The Energies and Environments, are also assigned to these paths.
+	(C) The paths "31 bis" and "32 bis" from the old 777 are no longer needed. Under the old system, these paths were used for correspondences to Fire and Earth, as there was no room for them on the 32 paths. Under the new system, items assigned to 31 bis can now be assigned to either path 54 (Past World) or 55 (Future World) and items assigned to 32 bis can now be assigned to path 52 (Future Action) or 53 (Past Action).
+	(D) A second expansion to the number of paths was added to include Daath plus 10 paths connecting it to each of the ten Sephiroth, bringing the total to 66 paths and Sephiroth plus three more to represent zero, for a grand total of 69 rows. A new system called the Diamonds of Daath is assigned to the 10 paths connecting to Daath. For gematria, the numbers 0 through 9 are assigned to the new paths connected to Daath.
+(2) Love is a new system of mathematics. It will be described in a separate document. For now, suffice it to say that this system is responsible for the expansion of the number of paths on the Tree of Life shown here and ultimately represents a vast simplification of understanding the Tree. Each Sephiroth is assigned a Love number and each path connecting two Sephiroth is a function that transforms one Love number (Sephiroth) into another. 
+This system, along with "Meaning Of The Numbers 0 - 9 Interpreted As Logograms" given above, now forms the entire system of the Tree of Life. Older methods of correspondences, where astrology, tarot cards, numerology, alchemy, legions of gods, magical weapons, rituals, etc, were assigned spots on the Tree have been relegated to commentary under this new system. This includes the new system introduced here as part of this analysis, the Energies and Environments, the new Tarot cards, the Diamonds of Daath, and the new system of numerology based on English. None of them are part of the system proper anymore.
+(3) The gematria values are the ones used to produce the values shown in the rest of this document. The values are pairs with the first showing the value for the letter and the second showing an optional value that can be used for capitals.
+(4) The Energies and Environments are a new system. The Energies are made up of six elements rather than the traditional five. The new element is Void and is the counterpart to Spirit. Void represents nothing. The other five energies are Animus, Action, Thought, Emotion, and World. These correspond to Spirit, Fire, Air, Water, and Earth. Additionally, the Energies introduce the concept of time; each Energy is combined with a Past and Future component to produce the entire system.
+The Environments are based on two concepts: Truth and Love, and their interaction called Personality. These three are combined in pairs to produce the full suite of Environments. Each pair is represented by a glyph containing two rows. The top row represents the environment in which the person is operating, the bottom row represents motivating force of the person. Thus, for example, the Environment Pain shows the person motivated by Truth operating in an environment of Love and suggests that Love and Truth are often strongly at odds with one another.
+(5) The Ten Diamonds of Daath are a system based on diamonds traced on the paths of the Tree. Each diamond touches Daath and each has its primary influence from another Sephiroth. The other two Sephiroth in the diamond represent minor influences of the meaning of the diamond as a whole. Thus, the Diamond of Daath for Kether includes Kether, Chokmah,  Binah, and Daath. Kether is the primary influence on the meaning of the diamond, while Chockmah and Binah are minor influences.
+(6) The King's color scale represents colors built from light. Red, Green, and Blue are the primary colors in this system and all colors combine to make white.
+Some of the King Scale colors provided in the Crowley's 777 did not match their traditional attributions. For example, row 29 lists the color as crimson when the correct color for that row is the pinkish purple of Pisces. I have used traditional attributions for the King's colors. Red, one of the primary colors in this scheme, was missing from the original King's scale attributions. It is now assigned to path 38, representing Love and The Child, which connects Kether and Malkuth.
+All RGB color values should be considered approximations. Slight deviations from these values are acceptable. This is true for all four color scales.
+All color assignments should be considered as aids in understanding, not dogma.
+(7) The Queen's color scale represents colors built from solids, such as paint or ink. Red, Blue, and Yellow are the primary colors in this system. White is also needed to be able to reproduce all colors. All colors (except white) combine to make black.
+The traditional Queen's color attribution for row 10 was Citrine, olive, russet, and black. This has been replaced with brown, which seems more appropriate. The Queen's colors for the paths were nearly useless. Even Crowley basically threw up his hands at them (See his notes in 777 Revised). For this reason, all of them have been replaced with (hopefully) sensible values. At the very least, we know the reasons why the colors were assigned.
+
+
+Liber 500 Notes
+* Limitless Light = 777 (gematria) 
+* Bride = 110 (gematria) = 11 * 10
+* Life = 50 (gematria) = n = Discovery
+* Life = 50 (gematria) = E = Creator
+* Binah = 70 (gematria) = G = Church
+* Binah = 70 (gematria) = p = Chaos
+
+* The Mystic= 40 (card number) = m = Evolution
+* The Mystic= 40 (card number) = D = Bride
+
+* Dreamer = A = 10 = j = Mask
+* Dreamer = A = 10 = z = Nothing
+* Mask = j = 10 = z = Nothing
+* Consecration = B = 20 = k = The Voice
+* Muse = C = 30 = l = Logic
+* Bride = D = 40 = m = Evolution
+* Creator = E = 50 = n = Discovery
+* Love = F = 60 = o = Atheist
+* Church = G = 70 = p = Chaos
+* Growth = H = 80 = q = Blood
+* Slave = I = 90 = r = The Vision
+* Mask = J = 100 = s = The Mystic
+* The Voice = K = 200 = t = Redemption
+* Logic = L = 300 = u = Life
+* Evolution = M = 400 = v = The Soul
+* Discovery = N = 500 = w = The Law
+* A = z = j = J = Z = s = S = Y = x = X = 10000
+* B = k = K = t = T = 2000
+* C = l = L = u = U = 3000
+* D = m = M = v = V = 4000
+* E = n = N = w = W = 5000
+* F = o = O = 600
+* G = p = P = 700
+* H = q = Q = 800
+* I = r = R = 900
+
+* Atheist = O = 60 = magic
+* Chaos = p = 70 = All (Capital A)
+
+Thelema
+* al = 31 = la
+* al-la = 62
+* abrahadabra = 201 = 67 * 3, Abrahadabra = 210 = 42 (= Life card number) * 5 (= the Hierophant card number), 210 = Fool (Gematria, Capital F), 210 = moon (Gematria) = The 
+Scarlet Woman (Liber CCXX I:16)
+  a + a + a + a + a = 5 = Hierophant
+  A + a + a + a + a = 14 = Art
+  had = 13 = Death
+  abra = 94 = 47 (= Perfection card number) * 2 (= Priestess card number) = 0 (via two perfects = none)
+  abrahadabra = 0 + 13 + 0 = 13 = Death (card number)
+* Scarlet Woman = 156 (Book of Lies) = fool (gematria)
+* BABALON = 156 (Hebrew Gematria) = fool (gematria)
+* Love is the law, love under will = 3131 (Capital L), 31 = Not (Hebrew Gematria)
+* Nu = 800 (Capitol N) = infinity and double naught (as glyphs)
+* Nu = 800 (Capitol N) = 80 (gematria) = 8 (gematria)
+* hadit = 222
+* Magus = 448 = Devil
+* Discipline = 289 = 17 * 17 = thelema
+* Infinity = Y = 100 = Called (Capitol C)
+* Chaos = p = 70 = iao = binah
+* IAO = All (Capital A)
+* kether = 328 (gematria) = khu (gematria)
+* Kether = 508 (gematria) = Khu (gematria)
+* chesed = 125 (gematria) = adonai (gematria) = Aeon (Capital A, gematria) 
+* 18 (= Lust card number) * 37 (= Chaos card number) = 666
+* book of the law = 952 = 17 (= The Star card number) * 56 (= Infinity card number)
+* Multiples of 11
+	g.·. d.· (11), Binah (88), G.·. D.·(110), Al-La (341), hermit (352), aleister (440), Devil (484), infinite space (517),
+	Obeah (616), abomination of desolation (1067), yx (1100), Priestess (1309), YX (11000), 
+* Multiples of 13
+	fool (156), bahlasti (351), Gematria (416), Empress (455), hrumachis, nuit, wanga (559), Hanged Man (598),
+	ra hoor khu (637), Ompehda (728), magister templi (806), Holy Guardian Angel (897), adjustment (910),
+	Force of Coph Nia (962), queen of heaven (975), Nox (1560), do what thou wilt (2080), 
+	lord of the double wand of power (2210), Tum (2340)
+* Multiples of 17
+	thelema (289), star (391), Geburah (476),	mentu (595), Fortune (765), book of the law (952), Priestess (1309), 
+	hawk headed lord of silence & of strength (1734), lord of the double wand of power (2210)
+* Multiples of 19
+	Aha (19), obeah (76), Chesed, (152), abramelin, algmor (228), theban (266), Ahathoor (437), perduabo (532),
+	Moon, Ankh af na khonsu (684), tower (855), Queen of Heaven (1767), ALGMOR (2280), 
+* Multiples of 23 
+	abk (23), ABK, (230), star (391), Ahathoor (437), Heru ra ha (575), Hanged Man (598), Holy Guardian Angel (897),
+	Do what thou wilt (2116), 
+* Multiples of 25
+	kaaba (25), Aeon, adonai, chesed (125), Daath (250), Art (300), aum-ha, nu (350), sun (450), Heru ra ha (575),
+	ankh af na khonsu (675), IAO, OAI (700), Nu (800), Lust (900), queen of heaven (975), Sun (1350),
+	v.v.v.v.v. (2000), NOX (11100), V.V.V.V.V.(20000)
+* Multiples of 29
+	aeon (116), Magister (812), 
+* Multiples of 31
+	al, la (31), al-la (62), AL, LA (310), Al-La (341), AL-LA (620), magister templi (806), ra hoor khut (837),
+	Book of the Law (1240), Queen of Heaven (1767), Love is the law, love under will (3131)
+* Multiples of 37
+	hadit (222), lashtal (370), Force of Coph Nia (962), nox (1110), , NOX (11100)
+* Multiples of 41
+	Babalon (164), Kaaba (205), kether, khu (328), Bahlasti (369), empress (410)
+* Multiples of 43
+	La (301), hrumachis, nuit, wanga (559), thelemites (602), ra hoor khu it (846), ABRA (940), 
+	Hawk Headed Lord of Silence & of Strength (3948), 
+* Multiples of 47
+	abra (94), ompehda (188), infinite (517)
+* Multiples of 53
+	chariot (371), Hermit (424), Ra Hoor Khu it (1908), Thebes (2120)
+* Multiples of 59
+	geburah (419), Tower (2655)
+* Multiples of 67
+	Adonai (134), abrahadabra, Ka (201), oil of Abramelin (402), ABRAHADABRA (2010)
+* Multiples of 73
+	babalon (146), BABALON (1460)
+* Multiples of 79
+	Abramelin (237), fortune, aiwass (711), Aleister Crowley (1264)
+* Multiples of 83
+	hanged man (166), Perduabo (1162)
+* Multiples of 89
+	ta nech (267)
+* Multiples of 97
+	art (291), 
+* Multiples of 111
+	hadit (222),  nox (1110), NOX (11100)
+
+	
+
+
+			
+				
+							
+
+
+
+
+
+
+
