@@ -1,0 +1,827 @@
+An Analysis Of The Hermetic Tree Of Life 
+
+
+Using The Mathematics Known As Love 
+
+
+Erin O'Hara 
+
+
+
+Table of Contents 
+
+Section I....................................................................................................................................................3 
+What Is Love?..................................................................................................................................4 
+What Is The Hermetic Tree Of Life?................................................................................................4 
+Difficulties Involved In Analyzing The Hermetic Tree Of Life.......................................................5 
+Equating Love Numbers With The Sephiroth..................................................................................5 
+The Paths On The Tree Of Life........................................................................................................5 
+Defining The Paths On The Tree Of Life.........................................................................................6 
+Defining The Meanings Of The Sephiroth.......................................................................................7 
+The New Tree Of Life.......................................................................................................................7 
+Summary Of Section I....................................................................................................................12 
+Section II.................................................................................................................................................13 
+New Systems For The New Paths..................................................................................................15 
+The Energies And Environments....................................................................................................16 
+The Energies.........................................................................................................................16 
+Void......................................................................................................................................16 
+The Environments.................................................................................................................17 
+The Diamonds Of Daath.................................................................................................................17 
+Simple English Gematria................................................................................................................18 
+Section III................................................................................................................................................20 
+A New I Ching...............................................................................................................................21 
+Previous Attempts To Map The I Ching To Western Symbols..............................................21 
+Mapping The Energies To The I Ching..........................................................................................22 
+Summary Of The New I Ching.......................................................................................................22 
+Interpreting The Energy Pairs...............................................................................................22 
+
+
+
+Section I 
+
+A New Foundation For The Hermetic Tree Of Life 
+
+This section presents an analysis of the Hermetic Tree of Life using a branch of Mathematics known as 
+Love. The document provides a brief introduction to Love, a brief introduction to the Hermetic Tree of 
+Life, the difficulties inherent in analyzing the Tree of Life, the solution to these difficulties, and the 
+analysis itself. 
+
+The results of this analysis provide a vast simplification of the Hermetic Tree of Life and allows for 
+the creation of several new systems that were latent within the Tree of Life, but undiscovered until now. 
+
+
+What Is Love? 
+
+Love is a system of mathematics designed to be useful in the analysis of qualitative information. It 
+works well with things like emotions, feelings, and even metaphysics. A brief, non-formal1, 
+introduction is provided here. 
+
+• 
+A number in Love does not represent the counting of things, but rather represents the type of 
+thing. For example, water is a type of thing, regardless of how much water we have. We can 
+assign a Love number to water and use that number every time we mean water. The assignment 
+of numbers is arbitrary in the sense that one analysis may assign water to the number 1, and 
+another unrelated analysis may assign something completely different to the number 1, say 
+dogs. Assigning a Love number to a thing can be thought of as declaring that number to be a 
+synonym for that thing. 
+• 
+When a new thing comes along, we assign it to a new number. For example, in an analysis 
+where water has been assigned to 1, we can assign dirt to the next number, 2. 
+• 
+Once we have multiple numbers representing different things, we immediately combine those 
+things to produce a new thing, and therefore a new number. For example, in an analysis where 1 
+is water and 2 is dirt, we combine them together to get a new thing, mud, and assign mud to the 
+number 3. 
+• 
+The numbers that represent uncombined things are called Simple Numbers. The sequence of 
+simple numbers is 1, 2, 4, 8, 16, 32, 64, etc. as well as -1, -2, -4, -8, -16, -32, -64, etc. 
+• 
+All numbers that are not simple numbers are Compound Numbers. 3, 5, 6, 7, 9, 10, 11, 12, etc 
+are all examples of compound numbers, as are -3, -5, -6, -7, -9, -10, -11, -12, etc. 
+• 
+Love allows for functions, which are a set of operations performed on one or more numbers and 
+providing one or more numbers as a result. 
+The key point to all of this is a number in Love represents a type of thing, not the amount of that thing. 
+For example, if we assign water to the number 1 and add more water to it, we still have only water. 
+This is represented in Love as 1 + 1 = 1. Similarly, if we assign dirt to 2 and add more dirt to it, we 
+have only dirt: 2 + 2 = 2. 
+
+It is only when we mix the simple numbers to form a compound number that we get a new number. 
+Water plus dirt equals mud. 1 + 2 = 3. 
+
+What Is The Hermetic Tree Of Life? 
+
+The Tree of Life is major part of a system known as Kabbalah. There are several branches of 
+Kabbalah.i ii iii Here we will be analyzing the branch known as Hermetic Qabalah. This is an extremely 
+complicated system that was developed over several centuries.iv Over that period the Hermetic Tree of 
+Life has come to be associated with tarot cards, astrology, alchemy, numerology, old pagan gods, and 
+numerous other systems.v vi vii viii ix These associations are used to flesh out the meaning of the various 
+parts of the Hermetic Tree of Life.x The parts of the Tree of Life consist of several sephiroth, which are 
+drawn as circles in the diagram of the Tree of Life, and the several paths that connect them. 
+
+Additional details on the Tree will be provided as we go along. 
+
+1 For a formal definition of Love, see Appendix A. 
+
+
+Difficulties Involved In Analyzing The 
+Hermetic Tree Of Life 
+
+Difficulty in analyzing the Tree of Life arises due to the fact 
+that none of the explanatory associations assigned to the parts 
+of the Tree of Life are simple. For example, the Tarot cards are 
+themselves a very complex system made of multiple 
+components.xi As it is now, to analyze the Hermetic Tree of 
+Life, one must also analyze at least several of these other 
+complex systems.xii 
+
+The situation with the current system is hopeless. The solution 
+presented here is to toss out all of the current system and start 
+anew. This means original research must be carried out. Once 
+this research is done one can re-introduce the old associations if 
+desired, but as commentary on the system rather than as 
+definitions. 
+
+Equating Love Numbers With The Sephiroth 
+
+At this point, we have thrown out the entire Tree and all of its 
+supporting nomenclature. We continue the analysis by reintroducing 
+as little as we can to build the Tree. Each step 
+along the way will be accompanied by axioms stating exactly 
+
+what is being done. To reconstruct the sephiroth, we need two axioms, shown below. 
+
+• 
+Axiom 1: There are eleven sephiroth on the Tree of Life. 
+• 
+Axiom 2: Each sephiroth is a unique thing, not a combination of other sephiroth. 
+With each sephiroth on the Tree of Life now defined as a thing in itself, we can assign each sephiroth to 
+a Love Number, as follows. 
+
+Kether = 1 Binah = 4 Geburah = 16 Netzach = 64 Yesod = 256 Daath = 1024 
+
+Chokmah = 2 Chesed = 8 Tiphareth = 32 Hod = 128 Malkuth = 512 
+
+These numbers have no special significance other than they are a sequence of Love simple numbers. 
+Also, the assignments are not correspondences. Rather the numbers are, for the purpose of this analysis, 
+identical to the sephiroth to which they are assigned. Put another way, we are not saying the number 1 
+has certain affinities with Kether, we are saying the Love number 1 and Kether are synonyms for the 
+purposes of the remainder of this analysis. 
+
+Daath is placed at the end due to it's controversial status as an actual sephiroth. In this analysis we will 
+consider it to be an actual sephiroth. Those who disagree can simply drop off Daath from the end of the 
+analysis. 
+
+We are now in a position to look at the paths on the Tree of Life. 
+
+The Paths On The Tree Of Life 
+
+There are several paths connecting the sephiroth on the Tree of Life. The sephiroth themselves are said 
+
+
+to have objective realities that can be contacted through various forms of meditation and ritual. We do 
+not concern ourselves here with the validity of this statement, rather we contrast it with the 
+acknowledgment that the paths connecting the sephiroth are said to represent solely subjective 
+realities.xiii 
+
+The first question we must ask is how many of these paths are there? The traditional answer is that 
+there are 22 paths, one for each letter of the Hebrew alphabet and each trump card in the Tarot deck. 
+What principle gives us 22 paths? There doesn't seem to be any such principle that is universally 
+accepted. In the Book of Thoth, Aleister Crowley states: 
+
+Why should this be so? Why should these paths be arranged on the Tree in the way that the diagram 
+shows? Why should there not be paths connecting the numbers 2 and 5 and the numbers 3 and 4? One 
+cannot answer any of these questions.xiv 
+
+Dion Fortune states that there are .”secret paths”. on the Tree, pointing out paths that connect Daath 
+with Yesod and with Chesed.xv Still other representations of the Tree of Life have 24 (non-secret) 
+paths.xvi 
+
+Charles Stansford Jones gives several detailed reasons why he believes there should be no more than 22 
+paths,xvii but his reasoning is directly contradicted by Fortune's statements and versions of the Tree 
+which have more than 22 paths. 
+
+The approach taken here is the number of paths placed on the Tree of Life is a convention, nothing 
+more, and there are several conflicting conventions. Therefore, when we use Love to construct the 
+paths, we'll do so in a manner that allows a path to connect any given sephiroth to any other. This gives 
+us several new paths that have never been placed on the Tree of Life before. If there are traditions or 
+individuals opposed to these new paths, they can append rules as to why such paths should not exist. 
+
+Defining The Paths On The Tree Of Life 
+
+We will define the paths as a mathematical function that transforms the energies of one sephiroth into 
+another. The following axiom does this. 
+
+• 
+Axiom 3: Given any sephiroth on the Tree of Life, X, as a starting point, and any other 
+sephiroth on the Tree, Y, as an ending point, there exists a function, f, of the formY = f(X), 
+which connects them. 
+With this one simple function we end up with a total of 55 paths on the Tree of Life, rather than the 
+traditional 22 paths.2 
+
+Now the function f is just an interface, there is no body written with it. In other words we have no idea, 
+at this point, what exactly the function f is doing to transform X into Y. Because nature of the paths is 
+they are subjective and work differently for different people, I've decided to leave it like this. The body 
+of f is undefined in this analysis, its contents are left up to case analysis by individuals to determine for 
+themselves. One may reintroduce traditional correspondences to the paths, such as tarot trumps, as aids 
+in determining exactly how each function works, if so desired. 
+
+Similarly, one may create new systems to cover the new paths. This is the subject of Section II. 
+
+2 
+It is a valid criticism to say the three axioms given here cannot reconstruct the diagrammatic representation of the Tree 
+of Life. There is nothing in these axioms which says Kether should be at the top of the Tree and Malkuth at the bottom, 
+or that the Tree should form three “pillars”, etc. This criticism, while acknowledged, is dismissed as unimportant to the 
+analysis presented here. If desired, new axioms can be presented that dictate the ordering of the sephiroth in a way that 
+reproduces the diagrammatic representation. In fact, Aleister Crowley has already provided such a set of axioms in his 
+book “777”. They are presented in his comments to column XII. 
+
+
+Defining The Meanings Of The Sephiroth 
+
+The final step of this analysis is to define the meanings of the sephiroth, for all we know about them 
+
+
+from Axiom 2 is that each one is different from the others, a thing in itself. 
+We shall use axioms to make our definitions, but we shall be careful to stick to things known. We'll not 
+be defining the sephiroth with the names of angels or knowledge obtainable only through special 
+channels. Common sense will guide us. 
+
+
+Axiom 4: The following three forces exist: Power, sex, and consciousness. 
+Axiom 5: Each of these three forces can be divided into pairs of opposites. 
+Axiom 6: Each opposite can be further divided into passive and active modes. 
+Axiom 7: The pairs of opposites for power are 1) Ruling, and 2) Submissive. 
+Axiom 8: The pairs of opposites for sex are 1) Male, and 2) Female. 
+Axiom 9: The pairs are opposites for consciousness are 1) Feelings, and 2) Reason. 
+Axiom 10: Power is assigned to the sephiroth as follows: Kether = Active Submissive, Malkuth = 
+
+
+Passive Submissive, Chesed = Passive Ruling, and Geburah = Active Ruling. 
+
+
+Axiom 11: Sex is assigned to the sephiroth as follows: Binah = Passive Female, Netzach = Active 
+Female, Chockmah = Active Male, Hod = Passive Male. 
+Axiom 12: Consciousness is assigned to the sephiroth as follows: Daath = Active Reason, Yesod = 
+
+
+Passive Feelings, Tiphareth = Passive Reason and Active Feelings together. 
+With these 12 axioms we have a rebuilt, clearly defined Tree of Life. The Tree is much simpler, yet 
+from this simplicity comes new information about the Tree that has never been presented before. This 
+information takes the form of the majority of the 33 new paths connecting the sephiroth. Exploring this 
+new information will be the topic of section II. 
+
+
+The New Tree Of Life 
+
+The following pages presents images of what the new Tree of Life looks like, along with a few 
+explanatory notes. 
+
+
+The new Tree of Life showing all the paths. 
+
+
+
+The Tree of Life drawn in 3D. 
+Because we never defined axioms 
+stating how the Tree was to be laid 
+out, we can use different layouts as 
+suit our needs. 
+
+In this image, the brown sphere is 
+Malkuth. Going clockwise from 
+Malkuth is Hod, Geburah, Binah, 
+Kether, Chockmah, Chesed, and 
+Netzach. In the center is Tiphareth. 
+The sphere at the top is Daath. The 
+sphere at the bottom is Yesod. 
+
+The paths are shown semitransparent 
+to symbolize their 
+subjective nature. 
+
+
+The image on the left shows all three sephiroth of consciousness, Yesod, Tipharoth, and Daath and the 
+paths connecting them. This is called the “Pillar of Consciousness”. The image includes Dion Fortune's 
+“secret path” connecting Daath and Yesod. 
+
+The image on the right shows the circle of sephiroth that surrounds the Pillar of Consciousness and the 
+paths connecting them. It is called the Womb and includes all the other sephiroth on the Tree. 
+
+The Pillar of Consciousness can be interpreted as a lingam symbol, and the Womb can be interpreted as 
+a yoni symbol. Notice that the Pillar of Consciousness and the Womb cannot separately produce all of 
+the paths on the Tree, even though they contain all the sephiroth between them. It is only when they are 
+joined that all the paths appear. 
+
+
+The “Cross of Sex”, left, and the “Cross of Power”, right. Going clockwise from the black sphere, the 
+Cross of Sex has Binah (Passive Female), Chockmah (Active Male), Netzach (Active Female) and Hod 
+(Passive Male). Tiphareth is in the center of the cross. 
+
+Going clockwise from the white sphere, the Cross of Power has Kether (Active Submissive), Chesed 
+(Passive Ruling), Malkuth (Passive Submissive), and Geburah (Active Ruling). Tiphareth is in the 
+center of the cross. 
+
+
+The Pillar of Consciousness can form four crosses with the sephiroth that encircle it. Shown above are 
+the “Cross of Submission”, left, and the “Cross of Ruling”, right. The Cross of Submission includes 
+Kether (Active Submission), and Malkuth (Passive Submission). 
+
+The Cross of Ruling includes Geburah (Active Ruling) and Chesed (Passive Ruling). 
+
+
+The other two crosses that can be formed from the Pillar of Consciousness are the “Cross of Man”, left, 
+and the “Cross of Woman”, right. The Cross of Man includes Chokmah and Hod. 
+
+The Cross of Woman includes Binah and Netzach. 
+
+Summary Of Section I 
+
+A short overview of Love and the Hermetic Tree of Life was provided. A quick look at the Tree of Life 
+showed that analysis would prove very difficult due to its overwhelming complexity. 
+
+To remedy this, the old definitions were discarded. The sephiroth were defined using two axioms: 
+There are eleven sephiroth and each is a unique thing. 
+
+Each of the sephiroth were then assigned their own Love simple number. 
+
+The subjective paths connecting the sephiroth were then defined with a single Love function. This 
+function allowed a path to connect any two sephiroth. This gives us a total of 55 paths on the Tree of 
+Life, rather than the traditional 22. 
+
+It was pointed out that the paths represent subjective experiences and therefore the details of the 
+function generating the paths will be different for each individual. 
+
+Axioms were presented to provide unique meanings to each of the sephiroth based on power, sex, and 
+consciousness. 
+
+Images of the new Tree of Life were presented along with a few explanatory notes. 
+
+
+i http://en.wikipedia.org/wiki/Christian_Kabbalah 
+ii http://en.wikipedia.org/wiki/Hermetic_Qabalah 
+iii http://en.wikipedia.org/wiki/Practical_Kabbalah 
+iv http://en.wikipedia.org/wiki/Hermetic_Qabalah#History 
+
+v 
+
+http://en.wikipedia.org/wiki/Hermetic_Qabalah#Tarot_and_the_Tree_of_Life 
+
+vi http://www.thelemapedia.org/index.php/Zodiac_and_the_Tree_of_Life 
+
+vii http://en.wikipedia.org/wiki/Hermetic_Qabalah#The_Sephiroth_in_Hermetic_Qabalah 
+
+viii http://www.digital-brilliance.com/themes/tol.php 
+
+ix http://hermetic.com/crowley/libers/liber777.pdf 
+
+x 
+
+http://en.wikipedia.org/wiki/777_and_other_Qabalistic_writings_of_Aleister_Crowley#Liber_777 
+
+xi http://en.wikipedia.org/wiki/Divinatory,_esoteric_and_occult_tarot 
+
+xii http://en.wikipedia.org/wiki/Hermetic_Qabalah#Tarot_and_the_Tree_of_Life 
+
+xiii Fortune, Dion. The Mystical Qabalah. Weiser Books. ISBN 978-1-57863-150-6. Chapter 28 Subjective Path Workings 
+
+xiv Crowley, Aleister. The Book Of Thoth. Weiser Books. ISBN 0-87728-268-4. The Atu of Tahuti 
+
+xv Fortune, Dion. The Mystical Qabalah. Weiser Books. ISBN 978-1-57863-150-6. Editorial Update 
+
+xvi http://en.wikipedia.org/wiki/Sephirot 
+
+xvii http://hermetic.com/achad/anatomy/anatomy3.htm 
+
+
+Section II 
+
+The New Paths On The Hermetic Tree Of Life 
+
+This section takes a look at the new paths on the Tree of Life developed in Section I. Various systems 
+designed to help explore these new paths are presented, including a system of English gematria, new 
+Tarot card trumps, a system that is somewhat similar to zodiac signs, planets and elements used in the 
+old system, and a new element called Void, which is added to the existing elements of Fire, Water, Air, 
+Earth, and Spirit. 
+
+
+New Systems For The New Paths 
+
+
+
+In section I we performed an analysis on the Hermetic 
+Tree of Life. This analysis simplified the Tree while at 
+the same time vastly expanding the amount of 
+information we can extract from it. Specifically, 33 
+new paths were discovered on the Tree, giving us a 
+grand total of 55 paths. 
+
+In this section we look at adding correspondences to 
+these new paths in order to flesh them out. We'll do 
+this by creating new tarot trump cards for each new 
+path. Tarot cards in the Hermetic tradition are 
+complex. They have several sub-components assigned 
+to them. These sub-components include: 
+
+• 
+A number assigned to each card. 
+• 
+Two sephiroth from the Tree of Life that the 
+card connects. 
+• 
+A Hebrew letter assigned to each card. 
+• 
+A Zodiac sign, planet, or element assigned to 
+each card. 
+Our new cards will have its own version of each of 
+these. Specifically, they will have: 
+
+• 
+A number assigned to each card. These 
+numbers start from the existing sequence, 
+which ends at 21. The first new card (shown 
+here) is number 22. The numbers are at the 
+center top of the card. They use Egyptian 
+numbers rather than Roman numbers, as 
+Egyptian numbers are much easier to read and there are claims that the trumps of the old deck 
+are of Egyptian origin. 
+
+• 
+Two sephiroth from the Tree of Life that the card connects. These are shown in the lower left 
+and right corners of the card. 
+• 
+An English letter assigned to each card. This is shown in the upper left corner of the card. An 
+English gematria has been developed to accompany the letters. 
+• 
+A correspondence from one of two new systems: The Energies and Environments, and the 
+Diamonds of Daath. These fill the role performed by the zodiac, planet and element 
+correspondences in the old deck. The appropriate symbol assigned to the card is shown in the 
+upper right corner of the card. 
+• 
+A title and a meaning for divination, shown at the bottom center of the card. 
+Before we can introduce these new cards, we must first introduce the component systems they use: The 
+Energies and Environments, the Diamonds of Daath, and the English gematria. 
+
+
+The Energies And Environments 
+
+The new system of the Energies and Environments fills a role similar to the zodiac, planets, and 
+elements of the old tarot decks. 
+
+The Energies 
+
+The Energies are a system of 12 elements. These 
+symbols represent the six elemental powers: Void (a 
+new element introduced with this system), Animus, 
+Action, Emotion, Thought, and World supplemented 
+with the concepts of past and future. 
+
+Animus, Action, Emotion, Thought, and World are 
+similar to Spirit, Fire, Water, Air, and Earth of the old 
+elemental system. When combined with the concepts of 
+past and future, Action, Emotion, Thought, and World 
+correspond exactly to the I Ching symbols as follows:3 
+
+
+Diagram 2. The Energies 
+
+
+Energy 
+
+Past Action 
+Past Emotion 
+Past Thought 
+Past World 
+
+Void 
+
+I Ching 
+
+. 
+Thunder (Chên) 
+. Joy (Tui) 
+. 
+Water (K'an) 
+. Earth (K'un) 
+
+Energy 
+
+Future Action 
+Future Emotion 
+Future Thought 
+Future World 
+
+I Ching 
+
+. Heaven (Ch'ien) 
+. Fire (Li) 
+. 
+Mountain (Kên) 
+. 
+Wind (Sun) 
+
+Void is a new element. It is the counterpart to Spirit, just as Water and Fire are counterparts, and Air 
+and Earth are counterparts. Void represents nothing, in the sense of 0 = 1 + -1. Its interesting properties 
+are 1) it can be added to anything at all without changing the receiver, and 2) pairs of opposites (1/-1, 
+2/-2, etc.) can be extracted from it indefinitely. 
+
+An example of a proper use of the Void is Section I of this document. The very first thing we did was 
+throw out all of the existing rules regarding the Tree of Life, literally leaving nothing. Once this was 
+done, all sorts of new possibilities emerged. These possibilities were always there, lying dormant. They 
+were unable to present themselves because they were buried under centuries of dogma and 
+pseudoscience that had accumulated on the Tree of Life. 
+
+3 
+Aleister Crowley provided similar correspondences to the symbols of the I Ching in his book “777”. Do not mistake the 
+Energies as being nothing more than new symbols for these correspondences. That is not the case. I believe that 
+Crowley's correspondences were flawed. This will be discussed in more detail in Section III. 
+
+
+Diagram 3. The Environments
+
+
+The Environments 
+
+The Environments are a system of 12 influencing 
+powers. They are similar in purpose to the planets 
+assigned to the trumps of the old tarot deck. The two 
+basic environments are Truth and Love. These interact 
+to create Personality. Truth, Love, and Personality 
+combine in pairs to create the remaining 9 
+Environments, for a total of 12. Their meanings are 
+exactly what their names indicate. 
+
+Just as the planets have a relationship with the zodiac 
+signs, so to do the Energies have a relationship with 
+the Environments. Certain pairs of Energies and 
+
+Environments can mutually strengthen or weaken one another, as shown in the diagrams below. 
+
+
+Diagram 4. Strengthening Relations Diagram 5. Weakening Relations 
+
+You can use these strengthening and weakening relations to learn more about the trumps to which each 
+symbol is assigned. For example, trump 36, The Atheist, is assigned to Past Thought, which is 
+strengthened by the Environment Rationality, which is in turn assigned to trump 34, Evolution. 
+
+The Diamonds Of Daath 
+
+The Diamonds are a system where diamonds are traced onto the Tree of Life, with one corner touching 
+Daath. The diamond is then said to contain the powers of the four sephiroth its corners touch. There are 
+ten diamonds in total, shown below. 
+
+
+Diamond Image Diamond Image Diamond Image 
+
+
+1st Diamond Of 
+
+
+5th Diamond 
+
+
+9th Diamond 
+
+Daath (Kether, 
+
+Of Daath 
+
+Of Daath 
+
+Chokmah, 
+
+(Binah, 
+
+(Daath, Chesed, 
+
+Binah, Daath) 
+
+Geburah, 
+
+Geburah, 
+
+Tiphareth, 
+
+Yesod) 
+
+Daath) 
+
+
+2nd Diamond 
+
+
+6th Diamond 
+
+
+10th Diamond 
+Of Daath 
+
+Of Daath 
+
+Of Daath 
+(Kether, 
+
+(Daath, Chesed, 
+
+(Daath, 
+Chokmah, 
+
+Tipareth, 
+
+Netzach, Hod, 
+Chesed, Daath) Geburah) Malkuth) 
+
+
+3rd Diamond 
+
+
+7th Diamond 
+Of Daath 
+
+Of Daath 
+(Kether, Binah, 
+
+(Chesed, 
+Geburah, 
+
+Netzach, 
+Daath) 
+
+
+Tipareth, 
+Daath) 
+
+4th Diamond 
+
+
+8th Diamond 
+Of Daath 
+
+Of Daath 
+(Chockmah, 
+
+(Geburah, Hod, 
+Chesed, 
+
+Tipareth, 
+Tiphareth, Daath) 
+Daath) 
+
+
+Because each of the sephiroth have a Love Simple Number assigned to it, these numbers can be added 
+together to represent the power of a given Diamond of Daath. For example, the 1st Diamond of Daath 
+gets its power from Kether (1), Chokmah (2), Binah (4), and Daath (1024). This power can be 
+represented in Love as 1 + 2 + 4 + 1024, or 1031. Just as a reminder, Love numbers have no 
+relationship to gematria. 
+
+
+Section III 
+
+A New I Ching 
+
+This section discusses how the new system of Energies matches up to the symbols of the I Ching and 
+can be used to expand the I Ching from 64 symbols to 144 symbols. These new symbols and their 
+meanings are provided. 
+
+
+A New I Ching 
+
+In this section we show how the Energies, presented in section II, can be mapped to the symbols of the 
+I Ching and used to expand that system to a set of 144 symbols. The meanings of these new symbols 
+are also provided. While this work is not part of the Tree of Life, the results presented here fell out 
+naturally from the work done in sections I and II. 
+
+Previous Attempts To Map The I Ching To Western Symbols 
+
+I know of only one previous attempt to map the symbols of Western mysticism and occultism to the I 
+Ching. This was an effort by Aleister Crowly and published in his book “777”xviii and in his translation 
+of the I Ching, which he called Liber 216.xix The correspondences he used for Liber 216 were as 
+follows: 
+
+Yetziratic 
+Attribution 
+
+
++ (Lingam, male force. 
+Considered a phallic 
+symbol by some.xx) 
+Water 
+Sun 
+Fire 
+
+I Ching 
+
+. Heaven (Ch'ien) 
+
+. Joy (Tui) 
+. Fire (Li) 
+. 
+Thunder (Chên) 
+
+Yetziratic 
+Attribution 
+
+
+Air 
+
+Moon 
+
+Earth 
+
+Circle (Yoni, female 
+force. Literally means 
+“vagina” in Sanskrit.xxi) 
+
+I Ching 
+
+. 
+Wind (Sun) 
+
+. 
+Water (K'an) 
+. Mountain (Kên) 
+. Earth (K'un) 
+
+Without even going any further we can already see a problem. There are three fiery male forces 
+(Lingam, Sun, and Fire), when there should only be two.4 
+
+As another example, if we go and check how these correspondences match up against the 64 I Ching 
+symbols, we find strange attributions such as the Yoni of Moon representing Hexagram 7, the Army. If 
+I were able to select from any of the 64 possible combinations one can build from Crowley's symbols, 
+Yoni of Moon would probably be my 64th choice to represent the Army. There are other names for this 
+hexagram, such as “Leading”, but Yoni of Moon doesn't describe those either. Regardless, changing 
+titles can't save the correspondence because it's fundamentally flawed. The bottom trigram, water, is 
+male, whereas Crowley assigned it a feminine value.xxii 
+
+As we look through Crowley's attributions, some match well to the I Ching hexagrams, some are 
+complete misses. I don't know the reason for this. Perhaps he had a bad translation of the I Ching, 
+perhaps he wanted to put his own spin on the I Ching, or some other reason. 
+
+Whatever the reason, I cannot recommend his correspondences and stress that the correspondences of 
+the Energies to the I Ching are not based on Crowley's work. 
+
+4 For the record, assigning the Sun to Li is where he went wrong. Li is an emotional fire, represented by western phrases 
+
+like “Hearts on fire”. It is not the fire of Tarot Trumps XIX or XX. The symbol is feminine, not masculine (one need 
+
+only look at it to see that), and is represented by the Middle Daughter in both the Fuxi and King Wen correspondences. 
+
+
+Mapping The Energies To The I Ching 
+
+Section II provided a map of eight of the Energies to their I Ching counterparts. This mapping is 
+
+repeated below for convenience. 
+
+
+Energy 
+
+Past Action 
+Past Emotion 
+Past Thought 
+Past World 
+
+I Ching 
+
+. 
+Thunder (Chên) 
+. Joy (Tui) 
+. 
+Water (K'an) 
+. Earth (K'un) 
+
+Energy 
+
+Future Action 
+Future Emotion 
+Future Thought 
+Future World 
+
+I Ching 
+
+. Heaven (Ch'ien) 
+. Fire (Li) 
+. 
+Mountain (Kên) 
+. 
+Wind (Sun) 
+
+The Energies Past Animus, Future Animus, Past Void, and Future Void have no correspondences to the 
+I Ching symbols. It is these four Energies combined with the I Ching symbols and with themselves that 
+produce the new I Ching symbols. 
+
+The 144 new and old symbols are summarized in the sections below, including their meanings. 
+
+Summary Of The New I Ching 
+
+The names of the Hexagrams below are taken from The Buddhist I Ching, written by Chih-hsu Ou-i 
+and translated by Thomas Cleary.xxiii There are other translations for the names, you may use those if 
+you wish. So as to provide a common reference, the meanings are taken from wikipedia's page on the I 
+Ching.xxiv 
+
+Interpreting The Energy Pairs 
+
+The titles and meanings of a given symbol are less important than the symbols themselves. The titles 
+and meanings attempt to describe what the symbols represent, but it's the symbols that contain the true 
+meaning. 
+
+The energies are shown in pairings for each symbol, like this: 
+
+
+The symbol on the left represents the top trigram and describes the energy of the environment. The 
+symbol on the right represents the bottom trigram and describes the energy of the individual. 
+
+For example, with hexagram 7, the Army (shown above), we have Past World and Past Thought. This 
+can be read as the individual's traditional thinking operating in an environment of the traditional world, 
+which is a fair description of the Army, and of how leadership works. In both cases you want everyone 
+familiar with standard procedures and with the environment they face. 
+
+xviii http://hermetic.com/crowley/libers/liber777.pdf Appendix I 
+xix http://hermetic.com/crowley/libers/lib216.html 
+xx http://en.wikipedia.org/wiki/Lingam 
+xxi http://en.wikipedia.org/wiki/Yoni 
+xxii http://en.wikipedia.org/wiki/Ba_gua#King_Wen_.22Later_Heaven.22 
+xxiii Cleary, Thomas. The Buddhist I Ching. Shambhala Publications, Inc. ISBN 0-87773-408-9 
+xxiv http://en.wikipedia.org/wiki/I_ching 
+
+
