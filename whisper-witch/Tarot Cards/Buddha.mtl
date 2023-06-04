@@ -1,0 +1,7 @@
+newmtl BUDDHAC
+Ns 58.6699
+Ka 0 0 0
+Kd 0.854902 0.670588 0.188235
+Ks 1 1 0.823514
+map_Kd GoldTexture1.jpg
+d 1
